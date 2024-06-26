@@ -5,70 +5,70 @@
 		<!-- == AMERICA == -->
 		<!-- civilization ability -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>All Diplomatic policy slots in the current [ICON_Government] government are converted to Wildcard slots. +1 [ICON_FAVOR] Diplomatic Favor per turn for every Wildcard slot in their [ICON_Government] government.</Text>
+			<Text>Wszystkie miejsca na doktryny dyplomatyczne w aktualnym [ICON_Goverment] ustroju zostają zastąpione dzikimi kartami. +1 do [ICON_FAVOR] względów dyplomatycznych na turę za każdą dziką kartę w ich [ICON_Goverment] ustroju.</Text>
 		</Replace>
 		<!-- = leader ability (Theodor Roosevelt - base game)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION" Language="pl_PL">
-			<Text>Units receive a +5 [ICON_Strength] Combat Strength when defending on their home continent or attacking on a foreign continent. +1 Appeal to all tiles in a city with a National Park. Gain the Rough Rider unique unit when they research the Military Science technology.</Text>
+			<Text>Jednostki otrzymują +5 do [ICON_Strength] siły bojowej podczas ataku na obcym kontynencie lub podczas obrony na ojczystym kontynencie. Wszystkie pola w mieście z parkiem narodowym zyskują +1 do atrakcyjności. Po odkryciu technologii Nauki Militarne otrzymujesz unikalną jednostkę rough ridera.</Text>
 		</Replace>
 		<Replace Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION" Language="pl_PL">
-			<Text>+5 Combat when defending on home continent.</Text>
+			<Text>+5 siły bojowej do obrony na ojczystym kontynencie.</Text>
 		</Replace>
 		<Row Tag="LOC_PROMOTION_COMBAT_FOREIGN_CONTINENT_DESCRIPTION" Language="pl_PL">
-			<Text>+5 Combat when attacking on foreign continent.</Text>
+			<Text>+5 siły bojowej do ataku na konytnencie innym niż ojczysty.</Text>
 		</Row>
 		<!-- = leader ability (Bull Moose)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="pl_PL">
-			<Text>After Code of Laws, breathtaking tiles adjacent to either a Natural Wonder or a Mountain receive +1 [ICON_SCIENCE] Science, doubled after researching Astronomy. After Code of Laws, breathtaking tiles adjacent to either a Natural Wonder or Woods receive +1 [ICON_CULTURE] Culture, doubled after completing the Enlightenment Civic.[NEWLINE]All tiles in a city with a National Park receive +1 Appeal. Woods can be planted with the Medieval Faires civic.</Text>
+			<Text>Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym  poziomie atrakcyjności, sąsiadujące z cudem natury lub górą otrzymują +1 [ICON_SCIENCE] nauki - podwojone po opracowaniu technologii astronomii. Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym poziomie atrakcyjności, sąsiadujące z cudem natury lub lasem otrzymują +1 [ICON_CULTURE] kultury - podwojone po opracowaniu ideii Oświecenia. </Text>
 		</Replace>
 		<!-- = leader ability (Rough Rider)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="pl_PL">
-			<Text>Units receive +1 [ICON_Strength] Combat Strength per player era reached by technologies or civics (from Classical Era up to Modern Era, capped at +5). Envoys sent to City-states you have a [ICON_TradeRoute] Trade Route to count as two [ICON_Envoy] Envoys. Gain the Rough Rider unique unit with Ballistics technology.</Text>
+			<Text>Jednostki otrzymują +1 [ICON_Strength] siły bojowwej za każdą epokę w którą wkroczył gracz w drzewie technologii lub idei (od epoki klasycznej do epoki współczesnej, maksymalnie +5). [ICON_Envoy] Emisariusze wysłani do państwa-miasta z którym łączy cię [ICON_TradeRoute] szlak handlowy liczą się podwójnie. Otrzymujesz unikalną jednostkę rough ridera przy opracowaniu technologii Balistyki.</Text>
 		</Replace>
 		<Row Tag="LOC_BBG_TEDDY_COMBAT_BONUS_IN_CLASSICAL" Language="pl_PL">
-			<Text>+1 [ICON_Strength] Combat Strength for reaching Classical Era (Roosevelt Corollary).</Text>
+			<Text>+1 [ICON_Strength] siły bojowej za osiągnięcie epoki klasycznej (Roosevelt Łoś).</Text>
 		</Row>
 		<Row Tag="LOC_BBG_TEDDY_COMBAT_BONUS_IN_MEDIEVAL" Language="pl_PL">
-			<Text>+2 [ICON_Strength] Combat Strength for reaching Medieval Era (Roosevelt Corollary).</Text>
+			<Text>+2 [ICON_Strength] siły bojowej za osiągnięcie epoki średniowiecza (Roosevelt Łoś).</Text>
 		</Row>
 		<Row Tag="LOC_BBG_TEDDY_COMBAT_BONUS_IN_RENAISSANCE" Language="pl_PL">
-			<Text>+3 [ICON_Strength] Combat Strength for reaching Renaissance Era (Roosevelt Corollary).</Text>
+			<Text>+3 [ICON_Strength] siły bojowej za osiągnięcie epoki renesansu (Roosevelt Łoś).</Text>
 		</Row>
 		<Row Tag="LOC_BBG_TEDDY_COMBAT_BONUS_IN_INDUSTRIAL" Language="pl_PL">
-			<Text>+4 [ICON_Strength] Combat Strength for reaching Industrial Era (Roosevelt Corollary).</Text>
+			<Text>+4 [ICON_Strength] siły bojowej za osiągnięcie epoki przemysłowej (Roosevelt Łoś).</Text>
 		</Row>
 		<Row Tag="LOC_BBG_TEDDY_COMBAT_BONUS_IN_MODERN" Language="pl_PL">
-			<Text>+5 [ICON_Strength] Combat Strength for reaching Modern Era (Roosevelt Corollary).</Text>
+			<Text>+5 [ICON_Strength] siły bojowej za osiągnięcie epoki współczesnej (Roosevelt Łoś).</Text>
 		</Row>
 		<!-- = leader ability (Abraham Lincoln)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_LINCOLN_DESCRIPTION" Language="pl_PL">
-			<Text>+100% [ICON_PRODUCTION] Production to Industrial Zone and Aqueduct districts. Industrial Zones give +2 [ICON_Amenities] Amenities. Receive a free Melee unit after completing an Industrial Zone and their buildings. The free unit does not require resources when created or to maintain and receives +5 [ICON_Strength] Combat Strength.</Text>
+			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia. Otrzymuje darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia oraz utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_LINCOLN_EXPANSION_DESCRIPTION" Language="pl_PL">
-			<Text>+100% [ICON_PRODUCTION] Production to Industrial Zone and Aqueduct districts. Industrial Zones give +2 [ICON_Amenities] Amenities and +3 Loyalty per turn. Plantations give -2 Loyalty per turn.[NEWLINE][NEWLINE]Receive a free Melee unit after completing an Industrial Zone and their buildings. The free unit does not require resources when created or to maintain and receives +5 [ICON_Strength] Combat Strength.</Text>
+			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia i +3 lojalności na turę. Plantacje zapewniają -2 Loyalty per turn.[NEWLINE][NEWLINE]Otrzymuje darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia oraz utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
 		</Replace>
 		<Row Tag="LOC_ABILITY_LINCOLN_MELEE_UNITS_COMBAT_DESCRIPTION" Language="pl_PL">
-			<Text>+5 [ICON_Strength] Combat Strength (Abraham Lincoln)</Text>
+			<Text>+5 [ICON_Strength] siły bojowej (Abraham Lincoln)</Text>
 		</Row>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION" Language="pl_PL">
-			<Text>American unique Industrial era unit that replaces Cuirassier when Teddy Roosevelt is their leader. Combat victories on their [ICON_Capital] Capital's continent provide [ICON_Culture] Culture equal to 25% of the [ICON_Strength] Combat Strength of the defeated unit (on Online speed). +5 [ICON_Strength] Combat Strength when fighting on Hills. Lower maintenance cost.</Text>
+			<Text>Jednostka epoki przemysłowej dostępna wyłącznie dla Ameryki, gdy przywódcą jest Teddy Roosevelt, zastępująca kirasjerów. Zyskują premie do [ICON_Culture] kultury za likwidowanie wroga na kontynencie z ich [ICON_Capital] stolicą równą 25% [ICON_Strength] siły bojowej pokonanej jednostki. +5 do [ICON_Strength] siły bojowej podczas walki na wzgórzach. Niższy koszt utrzymania.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>American unique Industrial era unit that replaces Cuirassier when Teddy Roosevelt is their leader. Combat victories on their [ICON_Capital] Capital's continent provide [ICON_Culture] Culture equal to 25% of the [ICON_Strength] Combat Strength of the defeated unit (on Online speed). +5 [ICON_Strength] Combat Strength when fighting on Hills. Lower maintenance cost.</Text>
+			<Text><Text>Jednostka epoki przemysłowej dostępna wyłącznie dla Ameryki, gdy przywódcą jest Teddy Roosevelt, zastępująca kirasjerów. Zyskują premie do [ICON_Culture] kultury za likwidowanie wroga na kontynencie z ich [ICON_Capital] stolicą równą 25% [ICON_Strength] siły bojowej pokonanej jednostki (na sieciowej prędkości gry). +5 do [ICON_Strength] siły bojowej podczas walki na wzgórzach. Niższy koszt utrzymania.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION" Language="pl_PL">
-			<Text>When defeating an enemy unit on your [ICON_Capital] Capital's continent, gain [ICON_Culture] Culture equal to 25% that unit's base [ICON_Strength] Combat Strength (on Online Speed).[NEWLINE][ICON_Bullet] +5 [ICON_Strength] Combat Strength when fighting on Hills.</Text>
+			<Text>Kiedy pokonuje wrogą jednostkę na kontynencie z ich [ICON_Capital] stolicą, otrzymuje [ICON_Culture] kulturę równą 25% [ICON_Strength] siły bojowej pokonanej jednostki. (na prędkości sieciowej).[NEWLINE][NEWLINE][ICON_Bullet] +5 [ICON_Strength] siły bojowej podczas walki na wzgórzach.</Text>
 		</Replace>
 		<!-- = unique building = -->
 		<Replace Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION" Language="pl_PL">
-			<Text>A building unique to America. +30% [ICON_Tourism] Tourism pressure from this city towards other civilizations who reached the Modern era.</Text>
+			<Text>Budowla dostępna tylko dla Ameryki. +30% do nacisku [ICON_Tourism] turystycznego tego miasta na inne cywilizacje, gdy rozgrywka wkracza w epokę współczesną.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_FILM_STUDIO_EXPANSION1_DESCRIPTION" Language="pl_PL">
-			<Text>A building unique to America. +30% [ICON_Tourism] Tourism pressure from this city towards other civilizations who reached the Modern era.</Text>
+			<Text>Budowla dostępna tylko dla Ameryki. +30% do nacisku [ICON_Tourism] turystycznego tego miasta na inne cywilizacje, gdy rozgrywka wkracza w epokę współczesną.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_FILM_STUDIO_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>A building unique to America. +30% [ICON_Tourism] Tourism pressure from this city towards other civilizations who reached the Modern era.</Text>
+			<Text>Budowla dostępna tylko dla Ameryki. +30% do nacisku [ICON_Tourism] turystycznego tego miasta na inne cywilizacje, gdy rozgrywka wkracza w epokę współczesną.</Text>
 		</Replace>
 
 		<!-- == ARABIA == -->
