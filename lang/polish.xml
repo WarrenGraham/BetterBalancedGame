@@ -42,10 +42,10 @@
 		</Row>
 		<!-- = leader ability (Abraham Lincoln)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_LINCOLN_DESCRIPTION" Language="pl_PL">
-			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia. Otrzymujesz darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia i utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
+			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia. Otrzymujesz darmową jednostkę walczącą w zwarciu po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia i utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_LINCOLN_EXPANSION_DESCRIPTION" Language="pl_PL">
-			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia i +3 lojalności na turę. Plantacje zapewniają -2 lojalności na turę.[NEWLINE][NEWLINE]Otrzymuje darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia i utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
+			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia i +3 lojalności na turę. Plantacje zapewniają -2 lojalności na turę.[NEWLINE][NEWLINE]Otrzymuje darmową jednostkę walczącą w zwarciu po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia i utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
 		</Replace>
 		<Row Tag="LOC_ABILITY_LINCOLN_MELEE_UNITS_COMBAT_DESCRIPTION" Language="pl_PL">
 			<Text>+5 [ICON_Strength] siły bojowej (Abraham Lincoln)</Text>
