@@ -15,15 +15,15 @@
 			<Text>+5 siły bojowej do obrony na ojczystym kontynencie.</Text>
 		</Replace>
 		<Row Tag="LOC_PROMOTION_COMBAT_FOREIGN_CONTINENT_DESCRIPTION" Language="pl_PL">
-			<Text>+5 siły bojowej do ataku na konytnencie innym niż ojczysty.</Text>
+			<Text>+5 siły bojowej do ataku na kontynencie innym niż ojczysty.</Text>
 		</Row>
 		<!-- = leader ability (Bull Moose)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="pl_PL">
-			<Text>Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym  poziomie atrakcyjności, sąsiadujące z cudem natury lub górą otrzymują +1 [ICON_SCIENCE] nauki - podwojone po opracowaniu technologii astronomii. Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym poziomie atrakcyjności, sąsiadujące z cudem natury lub lasem otrzymują +1 [ICON_CULTURE] kultury - podwojone po opracowaniu ideii Oświecenia. </Text>
+			<Text>Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym  poziomie atrakcyjności, sąsiadujące z cudem natury lub górą otrzymują +1 [ICON_SCIENCE] nauki - podwojone po opracowaniu technologii Astronomii. Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym poziomie atrakcyjności, sąsiadujące z cudem natury lub lasem otrzymują +1 [ICON_CULTURE] kultury - podwojone po opracowaniu ideii Oświecenia. </Text>
 		</Replace>
 		<!-- = leader ability (Rough Rider)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="pl_PL">
-			<Text>Jednostki otrzymują +1 [ICON_Strength] siły bojowwej za każdą epokę w którą wkroczył gracz w drzewie technologii lub idei (od epoki klasycznej do epoki współczesnej, maksymalnie +5). [ICON_Envoy] Emisariusze wysłani do państwa-miasta z którym łączy cię [ICON_TradeRoute] szlak handlowy liczą się podwójnie. Otrzymujesz unikalną jednostkę rough ridera przy opracowaniu technologii Balistyki.</Text>
+			<Text>Jednostki otrzymują +1 [ICON_Strength] siły bojowej za każdą epokę, w którą wkroczył gracz w drzewie technologii lub idei (od epoki klasycznej do epoki współczesnej, maksymalnie +5). [ICON_Envoy] Emisariusze wysłani do miasta-państwa, z którym łączy cię [ICON_TradeRoute] szlak handlowy liczą się podwójnie. Otrzymujesz unikalną jednostkę rough ridera przy opracowaniu technologii Balistyki.</Text>
 		</Replace>
 		<Row Tag="LOC_BBG_TEDDY_COMBAT_BONUS_IN_CLASSICAL" Language="pl_PL">
 			<Text>+1 [ICON_Strength] siły bojowej za osiągnięcie epoki klasycznej (Roosevelt Łoś).</Text>
@@ -42,10 +42,10 @@
 		</Row>
 		<!-- = leader ability (Abraham Lincoln)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_LINCOLN_DESCRIPTION" Language="pl_PL">
-			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia. Otrzymuje darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia oraz utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
+			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia. Otrzymujesz darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia i utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_LINCOLN_EXPANSION_DESCRIPTION" Language="pl_PL">
-			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia i +3 lojalności na turę. Plantacje zapewniają -2 Loyalty per turn.[NEWLINE][NEWLINE]Otrzymuje darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia oraz utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
+			<Text>+100% [ICON_PRODUCTION] do produkji dzielnicy przemysłowej oraz dzielnicy z akweduktem. Dzielnica przemysłowa zapewnia +2 [ICON_Amenities] udogodnienia i +3 lojalności na turę. Plantacje zapewniają -2 lojalności na turę.[NEWLINE][NEWLINE]Otrzymuje darmową jednostkę walczącą wręcz po ukończeniu dzielnicy przemysłowej oraz budynków w niej. Darmowa jednostka nie wymaga zasobów do wytworzenia i utrzymania oraz otrzymuje +5 [ICON_Strength] do siły bojowej.</Text>
 		</Replace>
 		<Row Tag="LOC_ABILITY_LINCOLN_MELEE_UNITS_COMBAT_DESCRIPTION" Language="pl_PL">
 			<Text>+5 [ICON_Strength] siły bojowej (Abraham Lincoln)</Text>
