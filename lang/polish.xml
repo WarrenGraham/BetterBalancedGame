@@ -138,15 +138,15 @@
 		<!-- == BRAZIL == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION" Language="pl_PL">
-			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts, and grant +1 Appeal to adjacent tiles, instead of the usual -1. Unimproved Rainforest tiles gain +1 [ICON_PRODUCTION] Production at Construction.</Text>
+			<Text>Pola lasu deszczowego zapewniają premię +1 za sąsiedztwo kampusom, dzielnicom biznesowym, dzielnicom świątynnym i dzielnicom kulturalnym oraz +1 do atrakcyjności dla sąsiednich pól zamiast domyślnego -1.  Nieulepszone pola lasu deszczowego zapewniają +1 do [ICON_PRODUCTION] produkcji po opracowaniu technologii Budownictwa.</Text>
 		</Replace>
 		<!-- = unique district = -->
 		<Replace Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>A district unique to Brazil that doesn't cost a district population slot and is not a specialty district. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Copacabana.</Text>
+			<Text>Unikalna dzielnica Brazylii, która nie wymaga populacji i nie jest dzielnicą wyspecjalizowaną. Zastępuje dzielnicę rozrywkową i zapewnia +2 [ICON_Amenities] udogodnienia. Odblokowuje projekt karnawału, który po rozpoczęciu zapewnia dodatkowe +1 [ICON_Amenities] udogodnienie, a po ukończeniu różne punkty [ICON_GreatPerson] wielkich ludzi. Nie można jej wybudować w mieście z Copacabaną.</Text>
 		</Replace>
 		<!-- = unique district = -->
 		<Replace Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>A district unique to Brazil that doesn't cost a district population slot and is not a specialty district. Replaces the Water Park district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.</Text>
+			<Text>Unikalna dzielnica Brazylii, która nie wymaga populacji i nie jest dzielnicą wyspecjalizowaną. Zastępuje park wodny i zapewnia +2 [ICON_Amenities] udogodnienia. Odblokowuje projekt karnawału, który po rozpoczęciu zapewnia dodatkowe +1 [ICON_Amenities] udogodnienie, a po ukończeniu różne punkty [ICON_GreatPerson] wielkich ludzi. Nie można jej wybudować w mieście z dzielnicą karnawałową ani na rafie.</Text>
 		</Replace>
 
 		<!-- == BYZANTIUM == -->
