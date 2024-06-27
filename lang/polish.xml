@@ -1211,18 +1211,18 @@
 		<!-- == VIETNAM == -->
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_TRIEU_DESCRIPTION" Language="pl_PL">
-			<Text>+1 [ICON_Movement] Movement for all units beginning their turn in Rainforest, Marsh, or Woods tiles, doubled if the tile is your territory. +2 [ICON_Strength] Combat Strength for units fighting in these tiles, doubled in your own territory.</Text>
+			<Text>+1 [ICON_Movement] do ruchu dla wszystkich jednostek zaczynających turę na polach z lasem deszczowym, mokradłami lub lasem, podwojone jeśli pole należy do ciebie. +2 [ICON_Strength] siły bojowej podczas walki na polach z lasem deszczowym, mokradłami lub lasem,  podwojone jeśli pole należy do ciebie.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_TRIEU_FEATURES_DESCRIPTION" Language="pl_PL">
-			<Text>All units gain +2 [ICON_Strength] Combat Strength when fighting in Rainforest, Marsh, and Woods tiles, and +1 [ICON_Movement] Movement if they start their turn there.  Both of these bonuses are doubled on tiles inside Vietnamese territory.</Text>
+			<Text>Wszystkie jednostki zyskują +2 [ICON_Strength] siły bojowej podczas walki na polach z lasem deszczowym, mokradłami lub lasem, i +1 [ICON_Movement] jeśli zaczynają na nich turę. Oba bonusy zostają podwojone na polach należących do Wietnamu.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_DESCRIPTION" Language="pl_PL">
-			<Text>Vietnamese unique Medieval era ranged unit that replaces the Crossbowman. Has Sight of 3 and can move after attacking. They are also stronger when defending and more expensive.</Text>
+			<Text>Średniowieczna jednostka dystansowa zastępująca kuszników, dostępna wyłącznie dla Wietnamu. Posiada 3 zasięgu wzroku, lraz może poruszyć się po wykonaniu ataku. Jest dużo silniejsza podczas obrony, oraz droższa w produkcji.</Text>
 		</Replace>
 		<!-- = unique district = -->
 		<Replace Tag="LOC_DISTRICT_THANH_DESCRIPTION" Language="pl_PL">
-			<Text>A district unique to Vietnam which replaces the Encampment. +2 [ICON_CULTURE] Culture for each adjacent district. After Flight is researched receive [ICON_TOURISM] Tourism equal to the [ICON_CULTURE] Culture output. This district does not require population, is cheaper to build, cannot be built adjacent to the City Center, does not provide [ICON_GreatPerson] Great People points, and is not a specialty district.[NEWLINE]Triggers a Culture Bomb that captures neutral, adjacent tiles.</Text>
+			<Text>Dostępna wyłącznie dla Wietnamu dzielnica zastępująca dzielnicę wojskową. +2 do [ICON_CULTURE] kultury za każdą sąsiadującą dzielnicę. Po opracowaniu technologii Lotu zapewnia [ICON_TOURISM] turystykę równą wytwarzanej [ICON_CULTURE] kulturze. Ta dzielnica nie wymaga populacji, jej wzniesienie jest tańsze, nie może sąsiadować z centrum miasta, nie zapewnia punktów [ICON_GreatPerson] wielkich ludzi i nie jest dzielnicą wyspecjalizowaną.</Text>
 		</Replace>
 
 		<!-- == ZULU == -->
