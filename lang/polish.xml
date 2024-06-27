@@ -1228,19 +1228,17 @@
 		<!-- == ZULU == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION" Language="pl_PL"> <!-- icons -->
-			<Text>Cities with a garrisoned unit get +3 Loyalty per turn, or +5 if it is a [ICON_Corps] Corps or [ICON_Army] Army. Conquering a city with a unit will upgrade it into a [ICON_Corps] Corps/Fleet or [ICON_Army] Army/Armada if that unit was already a Corp/Fleet, if the proper Civics are unlocked.</Text>
+			<Text>Miasta ze stacjonującą w nich jednostką zyskują +3 do lojalności na turę lub +5, jeśli stacjonuje w nich [ICON_Army] korpus bądź [ICON_Army] armia. Podbicie miasta jednostką sprawia, że zostaje ona awansowana do [ICON_Corps] korpusu lub [ICON_Army] armii, jeśli wcześniej odblokowano odpowiednie idee.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION" Language="pl_PL">
-			<Text>May form [ICON_Corps] Corps at the Mercenaries Civic and [ICON_Army] Armies at the Nationalism Civic. Corps and Armies both gain +2 [ICON_STRENGTH] base Combat Strength at the Mobilization Civic.</Text>
+			<Text>Umożliwia wcześniejsze tworzenie [ICON_Corps] korpusów (dzięki idei Najemników) i armii (dzięki idei Nacjonalizmu). Zapewnia +2 do podstawowej  siły bojowej korpusów i armii po opraowaniu idei Mobilizacji.</Text>
 		</Replace>
 		<!-- = unique district = -->
 		<Replace Tag="LOC_DISTRICT_IKANDA_DESCRIPTION" Language="pl_PL">
-			<Text>A district unique to Zulu which replaces the Encampment. Provides +1 [ICON_Housing] Housing. Buildings in the Ikanda receive +2 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture.[NEWLINE]Once required Civics are unlocked, allows [ICON_Corps] Corps or [ICON_Army] Armies to be trained directly and their costs reduced by 25%.</Text>
+			<Text>Unikalna dzielnica Zulusów zastępująca dzielnicę wojskową. Zapewnia +1 [ICON_Housing] obszar mieszkalny. Budowle w ikandzie zyskują premię +2 [ICON_GOLD] złota i +1 do [ICON_CULTURE] kultury.[NEWLINE] Po opracowaniu wymaganych idei pozwala na natychmiastowe tworzenie [ICON_Corps] korpusów i [ICON_Army] armii redukując ich koszt o 25% produkcji.</Text>
 		</Replace>
 		
-		
-
 		<!-- === UNITS === -->
 		<!-- == Civilian Units == -->
 		<Replace Tag="LOC_UNIT_TRADER_DESCRIPTION" Language="pl_PL"> <!-- embarkation tip -->
