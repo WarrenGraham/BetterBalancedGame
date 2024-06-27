@@ -94,7 +94,7 @@
 		<!-- == AUSTRALIA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION" Language="pl_PL">
-			<Text>+3 do [ICON_Housing] obszarów mieszkalnych nadmorskich miast. Pastwiska uruchamiają bombę kulturową. Kampusy, dzielnice biznesowe, dzielnice świątynne i dzielnice kulturowe zyskują +1 przychodu za sąsiedztwo pól o czarującym poziomie atrakcyjności i +3 za sąsiedztwo pól o niesamowitym poziomie atrakcyjności.[NEWLINE][NEWLINE]+1 do[ICON_PRODUCTION] produkcji dla pastwisk.</Text>
+			<Text>+3 do [ICON_Housing] obszarów mieszkalnych nadmorskich miast. Pastwiska uruchamiają bombę kulturową. Kampusy, dzielnice biznesowe, dzielnice świątynne i dzielnice kulturalne zyskują +1 przychodu za sąsiedztwo pól o czarującym poziomie atrakcyjności i +3 za sąsiedztwo pól o niesamowitym poziomie atrakcyjności.[NEWLINE][NEWLINE]+1 do[ICON_PRODUCTION] produkcji dla pastwisk.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION" Language="pl_PL">
