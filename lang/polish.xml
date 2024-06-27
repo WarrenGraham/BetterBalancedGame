@@ -1228,15 +1228,15 @@
 		<!-- == ZULU == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION" Language="pl_PL"> <!-- icons -->
-			<Text>Miasta ze stacjonującą w nich jednostką zyskują +3 do lojalności na turę lub +5, jeśli stacjonuje w nich [ICON_Army] korpus bądź [ICON_Army] armia. Podbicie miasta jednostką sprawia, że zostaje ona awansowana do [ICON_Corps] korpusu lub [ICON_Army] armii, jeśli wcześniej odblokowano odpowiednie idee.</Text>
+			<Text>Miasta ze stacjonującą w nich jednostką zyskują +3 do lojalności na turę lub +5, jeśli stacjonuje w nich [ICON_Corps] korpus bądź [ICON_Army] armia. Podbicie miasta jednostką sprawia, że zostaje ona awansowana do [ICON_Corps] korpusu lub [ICON_Army] armii, jeśli wcześniej odblokowano odpowiednie idee.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION" Language="pl_PL">
-			<Text>Umożliwia wcześniejsze tworzenie [ICON_Corps] korpusów (dzięki idei Najemników) i armii (dzięki idei Nacjonalizmu). Zapewnia +2 do podstawowej  siły bojowej korpusów i armii po opraowaniu idei Mobilizacji.</Text>
+			<Text>Umożliwia wcześniejsze tworzenie [ICON_Corps] korpusów (dzięki idei Najemników) i [ICON_Army] armii, po opracowaniu idei Nacjonalizmu. Zapewnia +2 do podstawowej [ICON_STRENGTH] siły bojowej korpusów i armii po opracowaniu idei Mobilizacji.</Text>
 		</Replace>
 		<!-- = unique district = -->
 		<Replace Tag="LOC_DISTRICT_IKANDA_DESCRIPTION" Language="pl_PL">
-			<Text>Unikalna dzielnica Zulusów zastępująca dzielnicę wojskową. Zapewnia +1 [ICON_Housing] obszar mieszkalny. Budowle w ikandzie zyskują premię +2 [ICON_GOLD] złota i +1 do [ICON_CULTURE] kultury.[NEWLINE] Po opracowaniu wymaganych idei pozwala na natychmiastowe tworzenie [ICON_Corps] korpusów i [ICON_Army] armii redukując ich koszt o 25% produkcji.</Text>
+			<Text>Unikalna dzielnica Zulusów zastępująca dzielnicę wojskową. Zapewnia +1 [ICON_Housing] obszar mieszkalny. Budowle w ikandzie zyskują premię +2 do [ICON_GOLD] złota i +1 do [ICON_CULTURE] kultury.[NEWLINE] Po opracowaniu wymaganych idei pozwala na natychmiastowe tworzenie [ICON_Corps] korpusów i [ICON_Army] armii redukując ich koszt produkcji o 25%.</Text>
 		</Replace>
 		
 		<!-- === UNITS === -->
