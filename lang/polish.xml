@@ -74,21 +74,21 @@
 		<!-- == ARABIA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION" Language="pl_PL">
-			<Text>+1 [ICON_GreatProphet] Great Prophet point per turn after researching Astrology. The last available [ICON_GreatProphet] Great Prophet will automatically go to Arabia, if they have not already recruited one.[NEWLINE][NEWLINE]+1 [ICON_Science] Science for each foreign city following Arabia's Religion. Campuses and Holy Sites receive a standard adjacency bonus from each other.</Text>
+			<Text>+1 do [ICON_GreatProphet] punktów wielkiego proroka na turę po opracowaniu technologii Astrologii. Automatycznie otrzymujesz ostatniego dostępnego [ICON_GreatProphet] wielkiego proroka, w przypadku nieposiadania [ICON_GreatProphet] wielkiego proroka.[NEWLINE][NEWLINE]+1 do [ICON_Science] nauki za każde miasto wyznające religię Arabii. Kampusy i dzielnice świątynne otrzymują standardowy bonus za sąsiedztwo.</Text>
 		</Replace>
 		<Row Tag="BBG_LOC_HS_ARABIA_CAMPUS" Language="pl_PL">
-			<Text>+{1_num} [ICON_FAITH] Faith from an adjacent Campus district.</Text>
+			<Text>+{1_num} [ICON_FAITH] wiary za każde sąsiadujące pole z kampusem.</Text>
 		</Row>
 		<Row Tag="BBG_LOC_CAMPUS_ARABIA_HS" Language="pl_PL">
-			<Text>+{1_num} [ICON_SCIENCE] Science from an adjacent Holy Site district.</Text>
+			<Text>+{1_num} [ICON_SCIENCE] nauki za każde sąsiadujące pole z dzielnicą świątynną.</Text>
 		</Row>
 		<!-- = leader ability (Saladin Vizier) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION" Language="pl_PL">
-			<Text>The worship building for their [ICON_RELIGION] Religion can be purchased by any player for just one-tenth of the usual [ICON_Faith] Faith cost. It adds 20% to the [ICON_Science] Science, [ICON_Faith] Faith, and [ICON_Culture] Culture to the city's output.</Text>
+			<Text>Budowla kultu ich [ICON_RELIGION] religii może być zakupiona przez dowolnego gracza za jedną dziesiątą standardowego kosztu [ICON_Faith] wiary. Ulepszenie budowli dodaje +20% do [ICON_Science] nauki, d[ICON_Faith] wiary i [ICON_Culture] kultury wytwarzanych w arabskich miastach.</Text>
 		</Replace>
 		<!-- = leader ability (Saladin Sultan) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_SALADIN_ALT_DESCRIPTION" Language="pl_PL">
-			<Text>+100% Flanking and Support Bonus to all Combat and Religious Units. All Units cost 1 [ICON_GOLD] Gold less maintenance per turn.</Text>
+			<Text>+100% premii do oskrzydlenia i wsparcia dla wszystkich jednostek bojowych i religijnych. Zmniejsza koszt utrzymania jednostek o 1[ICON_GOLD] złota na turę.</Text>
 		</Replace>
 
 		<!-- == AUSTRALIA == -->
