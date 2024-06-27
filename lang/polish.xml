@@ -1201,11 +1201,11 @@
 		<!-- == SWEDEN == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_DESCRIPTION" Language="pl_PL">
-			<Text>Sweden gains 50 [ICON_Favor] Diplomatic Favor (on Standard speed) when earning a [ICON_GreatPerson] Great Person. Having Sweden in the game adds three unique World Congress competitions starting in the Industrial Era.[NEWLINE][NEWLINE]+1 [ICON_GreatEngineer] Great Engineer point from Factories and +1 [ICON_GreatScientist] Great Scientist point from Universities. +50% [ICON_PRODUCTION] Production towards Libraries, Workshops, Universities, Factories and Government Plaza buildings.</Text>
+			<Text>Szwecja zyskuje 50  [ICON_Favor] względów dyplomatycznych (na standardowej prędkości gry), gdy zdobywa [ICON_GreatPerson] wielką osobę. Udział Szwecji w rozgrywce dodaje trzy unikalne rywalizacje Kongresu Światowego dostępne od epoki przemysłowej.[NEWLINE][NEWLINE]+1 [ICON_GreatEngineer] punktów wielkiego inżyniera z fabryk oraz +1 [ICON_GreatScientist] punktów wielkiego naukowca z uniwersytetów. +50% [ICON_PRODUCTION] produkcji do budowy bibliotek, warsztatów, uniwersytetów, fabryk oraz budynków w dzielnicy rządowej.</Text>
 		</Replace>
 		<!-- = unique building = -->
 		<Replace Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_DESCRIPTION" Language="pl_PL">
-			<Text>A building unique to Sweden. Provides 2 slots of [ICON_GreatWork_WRITING] Writing, [ICON_GreatWork_MUSIC] Music, and any type of [ICON_GreatWork_Landscape] Art. This building is not mutually exclusive with other buildings in Government Plaza.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+			<Text>Unikalna budowla Szwecji. Zapewnia 2 miejsca na wielkie dzieła [ICON_GreatWork_WRITING] literatury, [ICON_GreatWork_MUSIC] muzyki oraz dowolny rodzaj [ICON_GreatWork_Landscape]. Ten budynek nie wyklucza budowy innego budynku w dzielnicy rządowej.[NEWLINE]Zapewnia +1 [Icon_Governor] tytuł gubernatora.</Text>
 		</Replace>
 
 		<!-- == VIETNAM == -->
