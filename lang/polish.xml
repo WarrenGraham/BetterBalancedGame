@@ -1211,14 +1211,14 @@
 		<!-- == VIETNAM == -->
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_TRIEU_DESCRIPTION" Language="pl_PL">
-			<Text>+1 [ICON_Movement] do ruchu dla wszystkich jednostek zaczynających turę na polach z lasem deszczowym, mokradłami lub lasem, podwojone jeśli pole należy do ciebie. +2 [ICON_Strength] siły bojowej podczas walki na polach z lasem deszczowym, mokradłami lub lasem,  podwojone jeśli pole należy do ciebie.</Text>
+			<Text>+1 do [ICON_Movement] ruchu dla wszystkich jednostek zaczynających turę na polach z lasem deszczowym, mokradłami lub lasem, podwojone jeśli pole należy do Wietnamu. +2 do [ICON_Strength] siły bojowej podczas walki na polach z lasem deszczowym, mokradłami lub lasem, podwojone jeśli pole należy do Wietnamu.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_TRIEU_FEATURES_DESCRIPTION" Language="pl_PL">
-			<Text>Wszystkie jednostki zyskują +2 [ICON_Strength] siły bojowej podczas walki na polach z lasem deszczowym, mokradłami lub lasem, i +1 [ICON_Movement] jeśli zaczynają na nich turę. Oba bonusy zostają podwojone na polach należących do Wietnamu.</Text>
+			<Text>Wszystkie jednostki zyskują +2 do [ICON_Strength] siły bojowej podczas walki na polach z lasem deszczowym, mokradłami lub lasem i +1 [ICON_Movement] jeśli zaczynają na nich turę. Oba bonusy zostają podwojone na polach należących do Wietnamu.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_DESCRIPTION" Language="pl_PL">
-			<Text>Średniowieczna jednostka dystansowa zastępująca kuszników, dostępna wyłącznie dla Wietnamu. Posiada 3 zasięgu wzroku, lraz może poruszyć się po wykonaniu ataku. Jest dużo silniejsza podczas obrony, oraz droższa w produkcji.</Text>
+			<Text>Średniowieczna jednostka dystansowa zastępująca kuszników, dostępna wyłącznie dla Wietnamu. Posiada 3 zasięgu wzroku oraz może poruszyć się po wykonaniu ataku. Jest dużo silniejsza podczas obrony oraz droższa w produkcji.</Text>
 		</Replace>
 		<!-- = unique district = -->
 		<Replace Tag="LOC_DISTRICT_THANH_DESCRIPTION" Language="pl_PL">
