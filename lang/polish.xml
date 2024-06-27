@@ -121,18 +121,18 @@
 		<!-- == BABYLON == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="pl_PL">
-			<Text>Receive a free [ICON_TechBoosted] Eureka after constructing each Library.</Text>
+			<Text>Zyskujesz darmową [ICON_TechBoosted] eurekę po zbudowaniu każdej biblioteki.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="pl_PL">
-			<Text>When each [ICON_DISTRICT] specialty district is constructed for the first time, receive the lowest [ICON_PRODUCTION] Production cost building that can currently be constructed in that district.</Text>
+			<Text>Wzniesienie po raz pierwszy [ICON_DISTRICT] wyspecjalizowanej dzielnicy, zapewnia w niej za darmo dostępną w danej chwili budowlę kosztującą najmniej [ICON_PRODUCTION] produkcji.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="pl_PL">
-			<Text>When each [ICON_DISTRICT] specialty district type except the Government Plaza is constructed for the first time, receive the lowest [ICON_PRODUCTION] Production cost building that can currently be constructed in that district.</Text>
+			<Text>Wzniesienie po raz pierwszy [ICON_DISTRICT] wyspecjalizowanej dzielnicy (poza placem rządowym), zapewnia w niej za darmo dostępną w danej chwili budowlę kosztującą najmniej [ICON_PRODUCTION] produkcji.</Text>
 		</Replace>
 		<!-- = unique building = -->
 		<Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="pl_PL">
-			<Text>A building unique to Babylon. +1 [ICON_HOUSING] Housing and +2 [ICON_PRODUCTION] Production. All farms gain +1 [ICON_PRODUCTION] Production. Freshwater improved tiles, except Farms, receive +1 [ICON_FOOD] Food. City must be adjacent to a River.</Text>
+			<Text>Budowla dostępna wyłącznie dla Babilonu. +1 [ICON_HOUSING] obszar mieszkalny oraz +2 do [ICON_PRODUCTION] produkcji. Wszystkie farmy zyskują +1 do [ICON_PRODUCTION] produkcji. Ulepszone pola ze słodką wodą (za wyjątkiem farm) zyskują +1 do [ICON_FOOD] żywności. Miasto musi sąsiadować z rzeką.</Text>
 		</Replace>
 		
 		<!-- == BRAZIL == -->
