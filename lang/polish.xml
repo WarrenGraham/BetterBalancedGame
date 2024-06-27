@@ -19,7 +19,7 @@
 		</Row>
 		<!-- = leader ability (Bull Moose)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="pl_PL">
-			<Text>Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym  poziomie atrakcyjności, sąsiadujące z cudem natury lub górą otrzymują +1 [ICON_SCIENCE] nauki - podwojone po opracowaniu technologii Astronomii. Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym poziomie atrakcyjności, sąsiadujące z cudem natury lub lasem otrzymują +1 [ICON_CULTURE] kultury - podwojone po opracowaniu ideii Oświecenia. </Text>
+			<Text>Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym  poziomie atrakcyjności, sąsiadujące z cudem natury lub górą otrzymują +1 [ICON_SCIENCE] nauki - podwojone po opracowaniu technologii Astronomii. Po opracowaniu idei Kodeksu Prawnego, pola o niesamowitym poziomie atrakcyjności, sąsiadujące z cudem natury lub lasem otrzymują +1 [ICON_CULTURE] kultury - podwojone po opracowaniu idei Oświecenia. </Text>
 		</Replace>
 		<!-- = leader ability (Rough Rider)= -->
 		<Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="pl_PL">
@@ -94,15 +94,15 @@
 		<!-- == AUSTRALIA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION" Language="pl_PL">
-			<Text>+3 [ICON_Housing] Housing in coastal cities. Pastures trigger a Culture Bomb. Campuses, Commercial Hubs, Holy Sites and Theater Squares receive +1 Adjacency in tiles with Charming Appeal, +3 in Breathtaking.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production for Pastures.</Text>
+			<Text>+3 do [ICON_Housing] obszarów mieszkalnych nadmorskich miast. Pastwiska uruchamiają bombę kulturową. Kampusy, dzielnice biznesowe, dzielnice świątynne i dzielnice kulturowe zyskują +1 przychodu za sąsiedztwo pól o czarującym poziomie atrakcyjności i +3 za sąsiedztwo pól o niesamowitym poziomie atrakcyjności.[NEWLINE][NEWLINE]+1 do[ICON_PRODUCTION] produkcji dla pastwisk.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>+50% [ICON_Production] Production for 10 [ICON_TURN] turns after liberating a city.</Text>
+			<Text>+50% do [ICON_Production] produkcji, w ciągu 10 [ICON_TURN] tur po wyzwoleniu miasta.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION" Language="pl_PL">
-			<Text>The Guilds civic unlocks the Builder ability to construct an Outback Station, unique to Australia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +1 Appeal to adjacent tiles.[NEWLINE][NEWLINE]+1 [ICON_Food] Food for each adjacent Pasture. +1 [ICON_PRODUCTION] Production for every 2 adjacent Outback Stations with the Industrialization technology. +1 [ICON_FOOD] Food for every adjacent Outback Stations with the Rapid Deployment civic.[NEWLINE][NEWLINE]Can only be built in Desert, Grassland and Plains tiles.</Text>
+			<Text>Idea Gildii odblokowuje zdolność budowniczych pozwalającą wznieść gospodarstwo hodowlane, dostępne tylko dla Australii.[NEWLINE][NEWLINE]+1 do [ICON_FOOD] żywności, +1 do [ICON_PRODUCTION] produkcji i +1 do atrakcyjności dla sąsiadujących pól.[NEWLINE][NEWLINE]+1 do [ICON_Food] żywności za każde sąsiadujące pastwisko. +1 do [ICON_PRODUCTION] produkcji za każde 2 sąsiądujące gospodarstwa hodowlane po opracowaniu technologii Uprzemysłowienia. +1 do [ICON_FOOD] żywności za każde sąsiadujące pole z gospodarstwem hodowlanym po opracowaniu idei Błyskawicznej relokacji. [NEWLINE][NEWLINE]Można zbudować tylko na pustyni, wzgórzach na pustyni, łąkach i równinach.</Text>
 		</Replace>
 
 		<!-- == AZTECS == -->
