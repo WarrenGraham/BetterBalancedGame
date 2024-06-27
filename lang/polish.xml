@@ -161,7 +161,7 @@
 			<Text>Jednostki zyskują +2 do [ICON_Strength] siły bojowej lub [ICON_Religion] siły religijnej za każde święte miasto nawrócone na religię Bizancjum (w tym również święte miasta należące do Bizancjum). +1 punkt [ICON_GreatProphet] wielkiego proroka z miast z dzielnicą świątynną.[NEWLINE][NEWLINE] Pokonanie jednostki powoduje rozprzestrzenienie nacisku religijnego religii Bizancjum (w oparciu o [ICON_Strength] siłę bojową pokonanej jednostki) w promieniu 5 pól.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="pl_PL">
-			<Text>A district unique to Byzantium. Replaces the Entertainment Complex district, provides +2 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit.</Text>
+			<Text>Unikalna dzielnica Bizancjum. Zastępuje dzielnicę rozrywkową, zapewnia +2 [ICON_Amenities] udogodnienia, a jej wzniesienie jest tańsze. Wzniesienie hipodromu i budowli w tej dzielnicy zapewnia jednostkę ciężkiej kawalerii.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="pl_PL">
 			<Text>Unikalna dzielnica Bizancjum. Zastępuje dzielnicę rozrywkową, zapewnia +2 [ICON_Amenities] udogodnienia, a jej wzniesienie jest tańsze. Wzniesienie hipodromu i budowli w tej dzielnicy zapewnia jednostkę ciężkiej kawalerii. Utrzymanie jednostki uzyskanej z tej dzielnicy nie powoduje utraty zasobów. Nie można wybudować w mieście z parkiem wodnym.</Text>
