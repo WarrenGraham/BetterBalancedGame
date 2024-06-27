@@ -152,45 +152,45 @@
 		<!-- == BYZANTIUM == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="pl_PL">
-			<Text>Receive +2 [ICON_Strength] Combat Strength for each Holy City converted to your Religion and Byzantium's Religion is spread to nearby cities when a major civilization's unit is defeated (Taxis)</Text>
+			<Text>Jednostki zyskują +2 do [ICON_Strength] siły bojowej za każde święte miasto nawrócone na religię Bizancjum. Pokonanie jednostki obcej cywilizacji powoduje rozprzestrzenianie się religii Bizancjum na pobliskie miasta (umiejętność "Taxis").</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="pl_PL">
-			<Text>Receive +2 [ICON_RELIGION] Religious Strength for each Holy City converted to your Religion.</Text>
+			<Text>Jednostki zyskują +2 do [ICON_RELIGION] siły religijnej za każde święte miasto nawrócone na religię Bizancjum.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="pl_PL">
-			<Text>Units receive +2 [ICON_Strength] Combat Strength or [ICON_Religion] Religious Strength for each Holy City converted to Byzantium's Religion (including Byzantium's Holy City). +1 [ICON_GreatProphet] Great Prophet point from cities with a Holy Site district.[NEWLINE][NEWLINE]When defeats a unit, spreads Byzantium's Religion pressure (based on melee [ICON_Strength] Combat Strength of the defeated unit) within 5 tiles.</Text>
+			<Text>Jednostki zyskują +2 do [ICON_Strength] siły bojowej lub [ICON_Religion] siły religijnej za każde święte miasto nawrócone na religię Bizancjum (w tym również święte miasta należące do Bizancjum). +1 punkt [ICON_GreatProphet] wielkiego proroka z miast z dzielnicą świątynną.[NEWLINE][NEWLINE] Pokonanie jednostki powoduje rozprzestrzenienie nacisku religijnego religii Bizancjum (w oparciu o [ICON_Strength] siłę bojową pokonanej jednostki) w promieniu 5 pól.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="pl_PL">
 			<Text>A district unique to Byzantium. Replaces the Entertainment Complex district, provides +2 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>A district unique to Byzantium. Replaces the Entertainment Complex district, provides +2 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit. Units granted from this district do not have a resource maintenance cost. Cannot be built in a city with a Water Park.</Text>
+			<Text>Unikalna dzielnica Bizancjum. Zastępuje dzielnicę rozrywkową, zapewnia +2 [ICON_Amenities] udogodnienia, a jej wzniesienie jest tańsze. Wzniesienie hipodromu i budowli w tej dzielnicy zapewnia jednostkę ciężkiej kawalerii. Utrzymanie jednostki uzyskanej z tej dzielnicy nie powoduje utraty zasobów. Nie można wybudować w mieście z parkiem wodnym.</Text>
 		</Replace>
 		<!-- = leader ability (Theodora) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_THEODORA_DESCRIPTION" Language="pl_PL">
-			<Text>Holy Sites and Hippodromes provide +1 [ICON_Culture] Culture for each adjacent district.</Text>
+			<Text>Dzielnice świątynne oraz hipodromy zapewniają +1 [ICON_Culture] kultury za sąsiedztwo każdej dzielnicy.</Text>
 		</Replace>
 		<Row Tag="LOC_BBG_THEODORA_HOLYSITE_CULTURE" Language="pl_PL">
-			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_CULTURE] kultury za sąsiedztwo {1_Num : plural 1?district; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_BBG_THEODORA_HIPPODROME_CULTURE" Language="pl_PL">
-			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_CULTURE] kultury za sąsiedztwo {1_Num : plural 1?district; other?districts;}.</Text>
 		</Row>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="pl_PL">
-			<Text>Byzantine unique Classical era unit that replaces the Quadrireme and has additional range.</Text>
+			<Text>Jednostka epoki klasycznej dostępna wyłącznie dla Bizancjum. Zastępuje kwadryremę i ma większy zasięg.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="pl_PL">
-			<Text>Basil II's unique Medieval era unit that replaces the Knight. Land units within 1 tile of the Tagma receive +2 [ICON_Strength] Combat Strength or [ICON_RELIGION] Religious Strength.</Text>
+			<Text>Unikalna średniowieczna jednostka Bazylego II zastępująca rycerzy.  Jednostki lądowe, które znajdują się w promieniu 1 pola od tagmy, zyskują +2 do [ICON_Strength] siłu bojowej lub [ICON_RELIGION] siły religijnej.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="pl_PL">
-			<Text>Land units within 1 tile of the Tagma receive +2 [ICON_Strength] Combat Strength or [ICON_RELIGION] Religious Strength.</Text>
+			<Text>Jednostki lądowe, które znajdują się w promieniu 1 pola od tagmy, zyskują +2 do [ICON_Strength] siłu bojowej lub [ICON_RELIGION] siły religijnej.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="pl_PL">
-			<Text>+2 [ICON_Strength] Combat Strength when within 1 tile of the Tagma.</Text>
+			<Text>+2 do [ICON_Strength] siły bojowej, kiedy znajduje się w promieniu 1 pola od tagmy.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="pl_PL">
-			<Text>+2 [ICON_RELIGION] Religious Strength when within 1 tile of the Tagma.</Text>
+			<Text>+2 do [ICON_RELIGION] siły religijnej, kiedy znajduje się w promieniu 1 pola od tagmy.</Text>
 		</Replace>
 
 		<!-- == CANADA == -->
