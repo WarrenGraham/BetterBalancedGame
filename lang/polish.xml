@@ -108,14 +108,14 @@
 		<!-- == AZTECS == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION" Language="pl_PL">
-			<Text>Spend a Builder [ICON_Charges] charge to complete 30% of the original [ICON_DISTRICT] district cost. +50% [ICON_PRODUCTION] Production towards land melee units.</Text>
+			<Text>Pozwala na użycie [ICON_Charges] potencjału budowniczych do pokrycia 30% początkowego kosztu [ICON_DISTRICT] dzielnicy. +50% do [ICON_PRODUCTION] produkcji lądowych jednostek walczących w zwarciu.</Text>
 		</Replace>
 		<!-- = unique building = -->
 		<Replace Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION" Language="pl_PL">
-			<Text>A building unique to the Aztecs. Provides +1 [ICON_Amenities] Amenity and +1 [ICON_CULTURE] Culture to each City Center within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a City Center do not provide additional bonuses.[NEWLINE]+1 [ICON_GreatGeneral] Great General Point per turn.</Text>
+			<Text>Unikalna budowla Azteków. Zapewnia +1 [ICON_Amenities] udogodnienia oraz +1 [ICON_CULTURE] kultury dla każdego centrum miasta w odległości 6 pól. Bonus ma jednorazowe zastosowanie dla danego miasta, kopie tego budynku nie zapewniają dodatkowych bonusów dla centrów miast w odległości 6 pól.[NEWLINE]Zapewnia +1 do punktów [ICON_GreatGeneral] wielkiego generała na turę.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_TLACHTLI_XP1_DESCRIPTION" Language="pl_PL">
-			<Text>A building unique to the Aztecs. Provides +1 [ICON_Amenities] Amenity and +1 [ICON_CULTURE] Culture to each City Center within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a City Center do not provide additional bonuses.[NEWLINE]Provides +1 [ICON_GreatGeneral] Great General Point per turn and +3 [ICON_Tourism] Tourism.</Text>
+			<Text>Unikalna budowla Azteków. Zapewnia +1 [ICON_Amenities] udogodnienia oraz +1 [ICON_CULTURE] kultury dla każdego centrum miasta w odległości 6 pól. Bonus ma jednorazowe zastosowanie dla danego miasta, kopie tego budynku nie zapewniają dodatkowych bonusów dla centrów miast w odległości 6 pól.[NEWLINE]Zapewnia +1 do punktów [ICON_GreatGeneral] wielkiego generała na turę oraz +3 do [ICON_Tourism] turystyki.</Text>
 		</Replace>
 		
 		<!-- == BABYLON == -->
