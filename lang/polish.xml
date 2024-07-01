@@ -1102,15 +1102,15 @@
 		<!-- == SCYTHIA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION" Language="pl_PL">
-			<Text>May purchase Light, Heavy, and Ranged Cavalry units with [ICON_FAITH] Faith.</Text>
+			<Text>Może kupować jednostki lekkiej kawalerii, ciężkiej kawalerii oraz kawalerii walczącej dystansowo za [ICON_FAITH] wiarę.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION" Language="pl_PL">
-			<Text>Scythian unique Classical Era ranged cavalry unit with 4 [ICON_Movement] Movement and a [ICON_Range] Range of 2.</Text>
+			<Text>Unikalna klasyczna jednostka kawalerii walczącej dystansowo Scytii, posiadająca 4 [ICON_Movement] ruchu i [ICON_Range] zasięg 2.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION" Language="pl_PL">
-			<Text>The Animal Husbandry technology unlocks the Builder ability to construct a Kurgan, unique to Scythia.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith and +3 [ICON_Gold] Gold.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production for each adjacent Pasture. +1 [ICON_Faith] Faith for each adjacent Pasture, increasing to +2 [ICON_Faith] Faith for each adjacent Pasture with the Stirrups technology. Provides [ICON_TOURISM] Tourism from [ICON_FAITH] Faith after researching Flight.</Text>
+			<Text>Technologia Hodowlii Zwierząt odblokowywuje zdolność budowniczych do konstrukcji Kurhanu, unikalnego ulepszenia pola Scytii.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary i +3 [ICON_Gold] złota.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] produkcji za każde sąsiadujące pastwisko. +1 [ICON_Faith] wiary za kaźde sąsiadujące pastwisko, wzrasta do +2 [ICON_Faith] wiary za każde sąsiadujące pastwisko po opracowaniu technologii Strzemion. Zapewnia [ICON_TOURISM] turystyke równą [ICON_Faith] wiarze po opracowaniu technologi Lotu.</Text>
 		</Replace>
 		
 		<!-- == SPAIN == -->
