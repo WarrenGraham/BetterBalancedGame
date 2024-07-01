@@ -1082,21 +1082,21 @@
 		<!-- == SCOTLAND == -->
 		<!-- leader ability-->
 		<Replace Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION" Language="pl_PL">
-			<Text>Recon units receive +50% combat experience.</Text>
+			<Text>Jednostki rozpoznania otrzymują +50% doświadczenia</Text>
 		</Replace>
 		<!-- unused old ability
 		<Row Tag="TRAIT_BANNOCKBURN_EXTRA_MOVEMENT_DESC" Language="pl_PL">
 			<Text>+1 [ICON_Movement] Movement if begin turn on hill tile (Bannockburn).</Text>
 		</Row> -->
 		<Replace Tag="LOC_BBG_SCOTLAND_XP_RECON_MODIFIER_DESC" Language="pl_PL">
-			<Text>+50% Recon XP.</Text>
+			<Text>+50% XP jednostek rozpoznania.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION" Language="pl_PL">
-			<Text>The Games and Recreation civic unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold, +1 [ICON_CULTURE] Culture, +1 [ICON_AMENITIES] Amenity and and +1 Appeal to adjacent tiles.[NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture if adjacent to a City Center district. +1 [ICON_CULTURE] Culture and +1 [ICON_AMENITIES] Amenity if adjacent to an Entertainment Complex district. Additional +1 [ICON_AMENITIES] Amenity with the Guilds civic. Additional +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture with the Enlightenment civic. +1 [ICON_HOUSING] Housing with the Globalization civic.[NEWLINE][NEWLINE]Cannot be placed on Desert or Desert Hills. One per City. Tiles with Golf Courses cannot be swapped.</Text>
+			<Text>Idea Gry i Rekreacja odblokowywuje zdolnośc budowniczych do konstrukcji pola golfowego, unikalnego ulepszenia pola Szkocji.[NEWLINE][NEWLINE]+2 [ICON_GOLD] złota, +1 [ICON_CULTURE] kultury, +1 [ICON_AMENITIES] udogodnien i +1 do atrakcyjności sąsiadujących pól.[NEWLINE][NEWLINE]+1 [ICON_GOLD] złota i +1 [ICON_CULTURE] kultury jeśli sąsiaduje z centrum miasta. +1 [ICON_CULTURE] kultury i +1 [ICON_AMENITIES] udogodnień jesli sąsiaduje z dzielnicą rozrywkową. Dodakowe +1 [ICON_AMENITIES] udogodnień po opracowaniu ideii Gildii. Dodatkowe +1 [ICON_GOLD] i +1 [ICON_CULTURE] kultury po opracowaniu ideii Oświecenia. +1 [ICON_HOUSING] obszarów mieszkalnych po opracowaniu ideii Globalizacji.[NEWLINE][NEWLINE]Niemoże być zbudowany na polach pustyni lub wzgórzach z pustynią. Pola z polem golfowym nie mogą być zamieniane między miastami.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION" Language="pl_PL">
-			<Text>The Games and Recreation civic unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold, +1 [ICON_CULTURE] Culture, +1 [ICON_AMENITIES] Amenity and and +1 Appeal to adjacent tiles.[NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture if adjacent to a City Center district. +1 [ICON_CULTURE] Culture and +1 [ICON_AMENITIES] Amenity if adjacent to an Entertainment Complex district. Additional +1 [ICON_AMENITIES] Amenity with the Guilds civic. Additional +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture with the Enlightenment civic. +1 [ICON_HOUSING] Housing with the Globalization civic.[NEWLINE][NEWLINE]Cannot be placed on Desert or Desert Hills. One per City. Tiles with Golf Courses cannot be swapped.</Text>
+			<Text>Idea Gry i Rekreacja odblokowywuje zdolnośc budowniczych do konstrukcji pola golfowego, unikalnego ulepszenia pola Szkocji.[NEWLINE][NEWLINE]+2 [ICON_GOLD] złota, +1 [ICON_CULTURE] kultury, +1 [ICON_AMENITIES] udogodnien i +1 do atrakcyjności sąsiadujących pól.[NEWLINE][NEWLINE]+1 [ICON_GOLD] złota i +1 [ICON_CULTURE] kultury jeśli sąsiaduje z centrum miasta. +1 [ICON_CULTURE] kultury i +1 [ICON_AMENITIES] udogodnień jesli sąsiaduje z dzielnicą rozrywkową. Dodakowe +1 [ICON_AMENITIES] udogodnień po opracowaniu ideii Gildii. Dodatkowe +1 [ICON_GOLD] i +1 [ICON_CULTURE] kultury po opracowaniu ideii Oświecenia. +1 [ICON_HOUSING] obszarów mieszkalnych po opracowaniu ideii Globalizacji.[NEWLINE][NEWLINE]Niemoże być zbudowany na polach pustyni lub wzgórzach z pustynią. Pola z polem golfowym nie mogą być zamieniane między miastami.</Text>
 		</Replace>
 
 		<!-- == SCYTHIA == -->
