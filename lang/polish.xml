@@ -1116,31 +1116,31 @@
 		<!-- == SPAIN == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION" Language="pl_PL">
-			<Text>May form [ICON_Corps] Fleets and [ICON_Army] Armadas earlier than usual (Mercenaries and Mercantilism). Once required Civics are unlocked, Shipyard building allows training [ICON_Corps] Fleets and [ICON_Army] Armadas directly and their costs reduced by 25%.[NEWLINE][NEWLINE][ICON_TradeRoute] Trade Routes receive +3 [ICON_Gold] Gold, +2 [ICON_Faith] Faith, and +1 [ICON_Production] Production. International [ICON_TradeRoute] Trade Routes between multiple continents receive double these numbers. Cities at least 8 tiles away from [ICON_CAPITAL] Capital receive +25% [ICON_Production] Production towards [ICON_DISTRICT] districts.</Text>
+			<Text>Możliwość budowy [ICON_Corps] flot i [ICON_Army] armad dzięki merkantylizmowi zamiast nacjonalizmu i mobilizacji. Kiedy wymagane idee zostaną opracowane, stocznia pozwala na trenowanie [ICON_Corps] flot i [ICON_Army] armad bezpośrednio i obniża koszt ich produkcji o 25%.[NEWLINE][NEWLINE] Szlaki handlowe otrzymują premię +3 [ICON_Gold] złota, +2 do [ICON_Faith] wiary i +1 do  [ICON_Production] produkcji. W przypadku  szlaków handlowych biegnących przez wiele kontynentów premia ta jest podwajana. Miasta znajdujące się conajmniej 8 pól od twojej początkowej stolicy otrzymują premię +25% do [ICON_Production] produkcji przy wznoszeniu dzielnic.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>May form [ICON_Corps] Fleets and [ICON_Army] Armadas earlier than usual (Mercenaries and Mercantilism). Once required Civics are unlocked, Shipyard building allows training [ICON_Corps] Fleets and [ICON_Army] Armadas directly and their costs reduced by 25%.[NEWLINE][NEWLINE][ICON_TradeRoute] Trade Routes receive +3 [ICON_Gold] Gold, +2 [ICON_Faith] Faith, and +1 [ICON_Production] Production. International [ICON_TradeRoute] Trade Routes between multiple continents receive double these numbers. Cities at least 8 tiles away from [ICON_CAPITAL] Capital receive +25% [ICON_Production] Production towards [ICON_DISTRICT] districts.</Text>
+			<Text>Możliwość budowy [ICON_Corps] flot i [ICON_Army] armad dzięki merkantylizmowi zamiast nacjonalizmu i mobilizacji. Kiedy wymagane idee zostaną opracowane, stocznia pozwala na trenowanie [ICON_Corps] flot i [ICON_Army] armad bezpośrednio i obniża koszt ich produkcji o 25%.[NEWLINE][NEWLINE] Szlaki handlowe otrzymują premię +3 [ICON_Gold] złota, +2 do [ICON_Faith] wiary i +1 do  [ICON_Production] produkcji. W przypadku  szlaków handlowych biegnących przez wiele kontynentów premia ta jest podwajana. Miasta znajdujące się conajmniej 8 pól od twojej początkowej stolicy otrzymują premię +25% do [ICON_Production] produkcji przy wznoszeniu dzielnic.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION" Language="pl_PL">
-			<Text>Inquisitors can Remove Heresy one extra time. +5 [ICON_Strength] Combat Strength for military and religious units against civilizations following other religions.</Text>
+			<Text>Inkwizytorzy mogą usuwać herezję jeden raz więcej. +5 [ICON_Strength] siły bojowej dla jednostek wojskowych i religijnych przeciwko cywilizacjom wyznającym inną wiarę.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>Inquisitors can Remove Heresy one extra time. Inquisitors eliminate 100% of the presence of other Religions. Combat and Religious units have a bonus of +5 [ICON_Strength] Combat Strength against players following other Religions. Missionaries are 25% cheaper to purchase.</Text>
+			<Text>Inkwizytorzy mogą usuwać herezję jeden raz więcej. +5 [ICON_Strength] siły bojowej dla jednostek wojskowych i religijnych przeciwko cywilizacjom wyznającym inną wiarę. Misjonarze są tańsi w zakupie o 25%</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION" Language="pl_PL">
-			<Text>Spanish unique Renaissance era unit that replaces the Musketman. +5 [ICON_Strength] Combat Strength when there is a religious unit within 1 hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's majority religion.</Text>
+			<Text>Unikalna jednostka renesansowa hiszpanii zastępująca muszkietmena. +5 [ICON_Strength] siły bojowej kiedy znajduje się jednostka religijna w obrębie jednego pola. Jesli ta jednostka podbije miasto lub sąsiadująca do niej jednostka podbije miasto, miasto zostanie automatycznie nawrócone na religie większosciową konkwistadora.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION" Language="pl_PL">
-			<Text>+5 [ICON_Strength] Combat Strength when there is a religious unit within one hex.[NEWLINE][ICON_Bullet] If this unit captures a city or is adjacent to a city when it's captured, the city will automatically convert to the Conquistador player's majority Religion.</Text>
+			<Text>+5 [ICON_Strength] siły bojowej kiedy sąsiaduje z jednostkę religijną.[NEWLINE][NEWLINE] Jesli ta jednostka podbije miasto lub sąsiadująca do niej jednostka podbije miasto, miasto zostanie automatycznie nawrócone na religie większosciową konkwistadora.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION" Language="pl_PL">
-			<Text>The Theology civic unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] Housing if built 7 tiles or less from current [ICON_CAPITAL] Capital. +1 [ICON_FAITH] Faith if built 8 tiles or more from current [ICON_CAPITAL] Capital. +2 [ICON_Science] Science if built next to a Campus district. +2 [ICON_Science] Science with the Enlightenment civic.[NEWLINE][NEWLINE]Cannot be built next to another Mission.</Text>
+			<Text>Opracowanie idei Teologii odblokowywuje zdolnośc budowniczych do konstrukcji Misji, unikalnego ulepszenia Hiszpanii.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] obszarów mieszkalnych jeśli zbudowana 7 lub mniej pól od obecnej [ICON_CAPITAL] stolicy. +1 [ICON_FAITH] jeśli zbudowany 8 pól lub więcej od obecnej [ICON_CAPITAL] stolicy. +2 [ICON_Science] nauki jeśli zbudowany w sąsiedztwie kampusu. +2 [ICON_Science] nauki po opracowaniu ideii Oświecenia.[NEWLINE][NEWLINE]Nie może być zbudowana w sąsiedztwie innej Misji.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>The Theology civic unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] Housing if built 7 tiles or less from current [ICON_CAPITAL] Capital. +1 [ICON_FAITH] and +1 [ICON_PRODUCTION] Production if built 8 tiles or more from current [ICON_CAPITAL] Capital. +1 [ICON_Science] Science for every adjacent Campus and Holy Site district. +2 [ICON_Science] Science with the Enlightenment civic.[NEWLINE][NEWLINE]Cannot be built next to another Mission.</Text>
+			<Text>Opracowanie idei Teologii odblokowywuje zdolnośc budowniczych do konstrukcji Misji, unikalnego ulepszenia Hiszpanii.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] obszarów mieszkalnych jeśli zbudowana 7 lub mniej pól od obecnej [ICON_CAPITAL] stolicy. +1 [ICON_FAITH] jeśli zbudowany 8 pól lub więcej od obecnej [ICON_CAPITAL] stolicy. +1 [ICON_Science] nauki za każde sąsiadujące pole z kampusem lub dzielnicą świątynną. +2 [ICON_Science] nauki po opracowaniu ideii Oświecenia.[NEWLINE][NEWLINE]Nie może być zbudowana w sąsiedztwie innej Misji.</Text>
 		</Replace>
 
 		<!-- == SUMERIA == -->
