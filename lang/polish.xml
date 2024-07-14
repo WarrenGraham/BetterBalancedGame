@@ -269,49 +269,51 @@
 		<!-- == COLOMBIA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="pl_PL">
-			<Text>+1 [ICON_Movement] Movement for all military units after researching the Political Philosophy civic. Promoting Cavalry units, Air units and Spies does not end these units' turn.</Text>
+			<Text>+1 do [ICON_Movement] ruchu dla wszystkich jednostek po odkryciu idei Filozofii Politycznej. Awansowanie jednostek kawalerii, powietrznych oraz szpiegów nie kończy ich tury.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="pl_PL">
-			<Text>+1 Movement for all military units (Ejército Patriota)</Text>
+			<Text>+1 do [ICON_Movement] ruchu dla wszystkich militarnych jednostek.(Ejército Patriota)</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="pl_PL">
-			<Text>Earn a Comandante General when entering a new era. May not recruit [ICON_GreatGeneral] Great Generals.</Text>
+			<Text>Po wkroczeniu w nową epokę zyskujesz komendanta generalnego.
+			Nie możesz pozyskiwać [ICON_GreatGeneral] wielkiego generała.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="pl_PL">
-			<Text>Earn a Comandante General when the game enters a new era. May not recruit [ICON_GreatGeneral] Great Generals.</Text>
+			<Text>Po wkroczeniu w nową epokę zyskujesz komendanta generalnego.
+			Nie możesz pozyskiwać [ICON_GreatGeneral] wielkiego generała.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="pl_PL">
-			<Text>Gran Colombian Industrial era unique unit that replaces the Cavalry. Low maintenance cost. +2 [ICON_Strength] Combat Strength for every adjacent Llanero. Fully heals when in range of a Comandante General that activates its retire ability.</Text>
+			<Text>Jednostka epoki przemysłowej dostępna wyłącznie dla Wielkiej Kolumbii, zastępująca kawalerię. Niskie koszty utrzymania. +2 do [ICON_Strength] siły bojowej za każdą sąsiadującą jednostkę llanero. Odzyskuje pełnię zdrowia, gdy znajduje się w zasięgu komendanta generalnego, który aktywował swoją umiejętność.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_LLANERO_ADJACENCY_STRENGTH_DESCRIPTION" Language="pl_PL">
-			<Text>+2 [ICON_Strength] Combat Strength from each adjacent Llanero unit.</Text>
+			<Text>+2 do [ICON_Strength] siły bojowej za każdą sąsiadującą jednostkę llanero.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<!-- WIP BBG v5.2 Beta build 1 - Can be built on Hill Plains and Hill Grassland next to a Plantation improvement. -->
 		<Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="pl_PL">
-			<Text>Medieval Faires unlocks the Builder ability to construct a Hacienda, unique to Gran Colombia.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold, +1 [ICON_PRODUCTION] Production, and +0.5 [Icon_Housing] Housing.[NEWLINE][NEWLINE]+1 [ICON_Food] Food for every 2 adjacent Plantations, increasing to +1 [ICON_Food] Food for every adjacent Plantation with the Replaceable Parts technology. Plantations and Haciendas receive +1 [ICON_Production] Production for every 2 adjacent Haciendas, increasing to +1 [ICON_Production] Production for every adjacent Hacienda with Mercantilism.[NEWLINE][NEWLINE]Can be built on Plains and Grassland.</Text>
+			<Text>Idea Średniowiecza odblokowuje zdolność budowniczych do wznoszenia hacjend, unikalne dla Wielkiej Kolumbii.[NEWLINE][NEWLINE]+2 do [ICON_GOLD] złota, +1 do [ICON_PRODUCTION] produkcji i +0,5 do [Icon_Housing] obszarów mieszkalnych.[NEWLINE][NEWLINE] +1 do [ICON_Food] żywności za każde dwie sąsiadujące plantacje, po opracowaniu technologii Części zamiennych zmieniane na +1 do [ICON_Food] żywności za każdą sąsiadującą plantację. Plantacje i hacjendy otrzymują +1 do [ICON_Production] produkcji za każde dwie sąsiadujące hacjendy, po opracowaniu technologii Merkantylizmu zmieniane na +1 do [ICON_Production] za każdą sąsiadującą Hacjendę. [NEWLINE][NEWLINE] Może być zbudowana wyłącznie na równinach i łąkach.</Text>
 		</Replace>
 
 		<!-- == CREE == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION" Language="pl_PL">
-			<Text>+1 [ICON_TradeRoute] Trade Route capacity with the Pottery technology. Unclaimed tiles within 3 tiles of a Cree city come under Cree control when a Trader first moves into them.</Text>
+			<Text>+1 do [ICON_TradeRoute] maksymalnej liczby szlaków handlowych po opracowaniu technologii Garncarstwa. Pola niczyje znajdujące się w promieniu 3 pól od miasta Kri przechodzą pod ich kontrolę, gdy znajdzie się na nich kupiec.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION" Language="pl_PL">
-			<Text>Cree unique Ancient era unit that replaces the Scout. Starts with a [ICON_Promotion] free promotion. +5 [ICON_STRENGTH] Combat Strength when fighting units with a higher base Combat Strength.</Text>
+			<Text>Unikalna starożytna jednostka Kri zastępująca zwiadowców. Rozpoczyna grę z [ICON_Promotion] darmowym awansem. +5 do [ICON_STRENGTH] siły bojowej podczas walki z jednostką o większej sile bojowe.</Text>
 		</Replace>
 		<Row Tag="LOC_BBG_ABILITY_OKIHTCITAW_STRONG_AGAINST_STRONGER_UNITS" Language="pl_PL">
-			<Text>+5 Combat Strength when fighting units with a higher base Combat Strength</Text>
+			<Text>+5 do [ICON_STRENGTH] siły bojowej podczas walki z jednostką o większej sile bojowe.</Text>
 		</Row>
 		<Row Tag="LOC_BBG_ABILITY_OKIHTCITAW_STRONG_AGAINST_STRONGER_UNITS_DESCRIPTION" Language="pl_PL">
-			<Text>+5 [ICON_STRENGTH] Combat Strength when fighting units with a higher base Combat Strength.</Text>
+			<Text>+5 do [ICON_STRENGTH] siły bojowej podczas walki z jednostką o większej sile bojowe.</Text>
 		</Row>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION" Language="pl_PL">
-			<Text>The Pottery technology unlocks the Builder ability to construct a Mekewap, unique to Cree.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing.[NEWLINE][NEWLINE]Additional +1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing with the Civil Service civic. +1 [ICON_GOLD] Gold if adjacent to a Luxury resource, additional +2 [ICON_GOLD] Gold for every adjacent Luxury resource with the Cartography technology. +1 [ICON_FOOD] Food for every 2 adjacent Bonus Resources, increasing to +1 [ICON_FOOD] Food for every adjacent Bonus Resource with the Conservation civic.[NEWLINE][NEWLINE]Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Mekewap.</Text>
+			<Text>Technologia Garncarstwa odblokowuje zdolność budowniczych pozwalającą tworzyć mekewap, unikalny dla Kri.[NEWLINE][NEWLINE]Zapewnia +1 do[ICON_PRODUCTION] produkcji i +1 do [ICON_Housing] obszarów mieszkalnych.[NEWLINE][NEWLINE]Dodatkowe +1 do [ICON_PRODUCTION] produkcji i +1 do [ICON_Housing] obszarów mieszkalnych po odkryciu idei Służby Cywilnej. +1 do [ICON_GOLD] złota za sąsiedztwo zadobu luksusowego, dodatkowe, +2 do [ICON_GOLD] złota za sąsiedztwo każdego zasobu luksusowego po odkryciu technologii Kartografii. +1 do [ICON_FOOD] żywności za każde dwa sąsiadujące dodatkowe zasoby, po odkryciu idei Ochrony Przyrody zamieniane na +1 do [ICON_FOOD] żywności za każdy sąsiadujący zasób dodatkowy.[NEWLINE][NEWLINE]Można zbudować wyłącznie na polach sąsiadujących z zasobami dodatkowymi lub luksusowymi. Nie można wybudować w sąsiedztwie innego mekewapu.</Text>
 		</Replace>
 
 		<!-- == DUTCH == -->
