@@ -1084,120 +1084,120 @@
 		<!-- == SCOTLAND == -->
 		<!-- leader ability-->
 		<Replace Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION" Language="pl_PL">
-			<Text>Recon units receive +50% combat experience.</Text>
+			<Text>Jednostki rozpoznania otrzymują +50% doświadczenia</Text>
 		</Replace>
 		<!-- unused old ability
 		<Row Tag="TRAIT_BANNOCKBURN_EXTRA_MOVEMENT_DESC" Language="pl_PL">
 			<Text>+1 [ICON_Movement] Movement if begin turn on hill tile (Bannockburn).</Text>
 		</Row> -->
 		<Replace Tag="LOC_BBG_SCOTLAND_XP_RECON_MODIFIER_DESC" Language="pl_PL">
-			<Text>+50% Recon XP.</Text>
+			<Text>+50% XP jednostek rozpoznania.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION" Language="pl_PL">
-			<Text>The Games and Recreation civic unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold, +1 [ICON_CULTURE] Culture, +1 [ICON_AMENITIES] Amenity and and +1 Appeal to adjacent tiles.[NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture if adjacent to a City Center district. +1 [ICON_CULTURE] Culture and +1 [ICON_AMENITIES] Amenity if adjacent to an Entertainment Complex district. Additional +1 [ICON_AMENITIES] Amenity with the Guilds civic. Additional +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture with the Enlightenment civic. +1 [ICON_HOUSING] Housing with the Globalization civic.[NEWLINE][NEWLINE]Cannot be placed on Desert or Desert Hills. One per City. Tiles with Golf Courses cannot be swapped.</Text>
+			<Text>Idea Gry i Rekreacja odblokowywuje zdolnośc budowniczych do konstrukcji pola golfowego, unikalnego ulepszenia pola Szkocji.[NEWLINE][NEWLINE]+2 [ICON_GOLD] złota, +1 [ICON_CULTURE] kultury, +1 [ICON_AMENITIES] udogodnien i +1 do atrakcyjności sąsiadujących pól.[NEWLINE][NEWLINE]+1 [ICON_GOLD] złota i +1 [ICON_CULTURE] kultury jeśli sąsiaduje z centrum miasta. +1 [ICON_CULTURE] kultury i +1 [ICON_AMENITIES] udogodnień jesli sąsiaduje z dzielnicą rozrywkową. Dodakowe +1 [ICON_AMENITIES] udogodnień po opracowaniu ideii Gildii. Dodatkowe +1 [ICON_GOLD] i +1 [ICON_CULTURE] kultury po opracowaniu ideii Oświecenia. +1 [ICON_HOUSING] obszarów mieszkalnych po opracowaniu ideii Globalizacji.[NEWLINE][NEWLINE]Niemoże być zbudowany na polach pustyni lub wzgórzach z pustynią. Pola z polem golfowym nie mogą być zamieniane między miastami.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION" Language="pl_PL">
-			<Text>The Games and Recreation civic unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold, +1 [ICON_CULTURE] Culture, +1 [ICON_AMENITIES] Amenity and and +1 Appeal to adjacent tiles.[NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture if adjacent to a City Center district. +1 [ICON_CULTURE] Culture and +1 [ICON_AMENITIES] Amenity if adjacent to an Entertainment Complex district. Additional +1 [ICON_AMENITIES] Amenity with the Guilds civic. Additional +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture with the Enlightenment civic. +1 [ICON_HOUSING] Housing with the Globalization civic.[NEWLINE][NEWLINE]Cannot be placed on Desert or Desert Hills. One per City. Tiles with Golf Courses cannot be swapped.</Text>
+			<Text>Idea Gry i Rekreacja odblokowywuje zdolnośc budowniczych do konstrukcji pola golfowego, unikalnego ulepszenia pola Szkocji.[NEWLINE][NEWLINE]+2 [ICON_GOLD] złota, +1 [ICON_CULTURE] kultury, +1 [ICON_AMENITIES] udogodnien i +1 do atrakcyjności sąsiadujących pól.[NEWLINE][NEWLINE]+1 [ICON_GOLD] złota i +1 [ICON_CULTURE] kultury jeśli sąsiaduje z centrum miasta. +1 [ICON_CULTURE] kultury i +1 [ICON_AMENITIES] udogodnień jesli sąsiaduje z dzielnicą rozrywkową. Dodakowe +1 [ICON_AMENITIES] udogodnień po opracowaniu ideii Gildii. Dodatkowe +1 [ICON_GOLD] i +1 [ICON_CULTURE] kultury po opracowaniu ideii Oświecenia. +1 [ICON_HOUSING] obszarów mieszkalnych po opracowaniu ideii Globalizacji.[NEWLINE][NEWLINE]Niemoże być zbudowany na polach pustyni lub wzgórzach z pustynią. Pola z polem golfowym nie mogą być zamieniane między miastami.</Text>
 		</Replace>
 
 		<!-- == SCYTHIA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION" Language="pl_PL">
-			<Text>May purchase Light, Heavy, and Ranged Cavalry units with [ICON_FAITH] Faith.</Text>
+			<Text>Może kupować jednostki lekkiej kawalerii, ciężkiej kawalerii oraz kawalerii walczącej dystansowo za [ICON_FAITH] wiarę.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION" Language="pl_PL">
-			<Text>Scythian unique Classical Era ranged cavalry unit with 4 [ICON_Movement] Movement and a [ICON_Range] Range of 2.</Text>
+			<Text>Unikalna klasyczna jednostka kawalerii walczącej dystansowo Scytii, posiadająca 4 [ICON_Movement] ruchu i [ICON_Range] zasięg 2.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION" Language="pl_PL">
-			<Text>The Animal Husbandry technology unlocks the Builder ability to construct a Kurgan, unique to Scythia.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith and +3 [ICON_Gold] Gold.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production for each adjacent Pasture. +1 [ICON_Faith] Faith for each adjacent Pasture, increasing to +2 [ICON_Faith] Faith for each adjacent Pasture with the Stirrups technology. Provides [ICON_TOURISM] Tourism from [ICON_FAITH] Faith after researching Flight.</Text>
+			<Text>Technologia Hodowlii Zwierząt odblokowywuje zdolność budowniczych do konstrukcji Kurhanu, unikalnego ulepszenia pola Scytii.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary i +3 [ICON_Gold] złota.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] produkcji za każde sąsiadujące pastwisko. +1 [ICON_Faith] wiary za kaźde sąsiadujące pastwisko, wzrasta do +2 [ICON_Faith] wiary za każde sąsiadujące pastwisko po opracowaniu technologii Strzemion. Zapewnia [ICON_TOURISM] turystyke równą [ICON_Faith] wiarze po opracowaniu technologi Lotu.</Text>
 		</Replace>
 		
 		<!-- == SPAIN == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION" Language="pl_PL">
-			<Text>May form [ICON_Corps] Fleets and [ICON_Army] Armadas earlier than usual (Mercenaries and Mercantilism). Once required Civics are unlocked, Shipyard building allows training [ICON_Corps] Fleets and [ICON_Army] Armadas directly and their costs reduced by 25%.[NEWLINE][NEWLINE][ICON_TradeRoute] Trade Routes receive +3 [ICON_Gold] Gold, +2 [ICON_Faith] Faith, and +1 [ICON_Production] Production. International [ICON_TradeRoute] Trade Routes between multiple continents receive double these numbers. Cities at least 8 tiles away from [ICON_CAPITAL] Capital receive +25% [ICON_Production] Production towards [ICON_DISTRICT] districts.</Text>
+			<Text>Możliwość budowy [ICON_Corps] flot i [ICON_Army] armad dzięki merkantylizmowi zamiast nacjonalizmu i mobilizacji. Kiedy wymagane idee zostaną opracowane, stocznia pozwala na trenowanie [ICON_Corps] flot i [ICON_Army] armad bezpośrednio i obniża koszt ich produkcji o 25%.[NEWLINE][NEWLINE] Szlaki handlowe otrzymują premię +3 [ICON_Gold] złota, +2 do [ICON_Faith] wiary i +1 do  [ICON_Production] produkcji. W przypadku  szlaków handlowych biegnących przez wiele kontynentów premia ta jest podwajana. Miasta znajdujące się conajmniej 8 pól od twojej początkowej stolicy otrzymują premię +25% do [ICON_Production] produkcji przy wznoszeniu dzielnic.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>May form [ICON_Corps] Fleets and [ICON_Army] Armadas earlier than usual (Mercenaries and Mercantilism). Once required Civics are unlocked, Shipyard building allows training [ICON_Corps] Fleets and [ICON_Army] Armadas directly and their costs reduced by 25%.[NEWLINE][NEWLINE][ICON_TradeRoute] Trade Routes receive +3 [ICON_Gold] Gold, +2 [ICON_Faith] Faith, and +1 [ICON_Production] Production. International [ICON_TradeRoute] Trade Routes between multiple continents receive double these numbers. Cities at least 8 tiles away from [ICON_CAPITAL] Capital receive +25% [ICON_Production] Production towards [ICON_DISTRICT] districts.</Text>
+			<Text>Możliwość budowy [ICON_Corps] flot i [ICON_Army] armad dzięki merkantylizmowi zamiast nacjonalizmu i mobilizacji. Kiedy wymagane idee zostaną opracowane, stocznia pozwala na trenowanie [ICON_Corps] flot i [ICON_Army] armad bezpośrednio i obniża koszt ich produkcji o 25%.[NEWLINE][NEWLINE] Szlaki handlowe otrzymują premię +3 [ICON_Gold] złota, +2 do [ICON_Faith] wiary i +1 do  [ICON_Production] produkcji. W przypadku  szlaków handlowych biegnących przez wiele kontynentów premia ta jest podwajana. Miasta znajdujące się conajmniej 8 pól od twojej początkowej stolicy otrzymują premię +25% do [ICON_Production] produkcji przy wznoszeniu dzielnic.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION" Language="pl_PL">
-			<Text>Inquisitors can Remove Heresy one extra time. +5 [ICON_Strength] Combat Strength for military and religious units against civilizations following other religions.</Text>
+			<Text>Inkwizytorzy mogą usuwać herezję jeden raz więcej. +5 [ICON_Strength] siły bojowej dla jednostek wojskowych i religijnych przeciwko cywilizacjom wyznającym inną wiarę.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>Inquisitors can Remove Heresy one extra time. Inquisitors eliminate 100% of the presence of other Religions. Combat and Religious units have a bonus of +5 [ICON_Strength] Combat Strength against players following other Religions. Missionaries are 25% cheaper to purchase.</Text>
+			<Text>Inkwizytorzy mogą usuwać herezję jeden raz więcej. +5 [ICON_Strength] siły bojowej dla jednostek wojskowych i religijnych przeciwko cywilizacjom wyznającym inną wiarę. Misjonarze są tańsi w zakupie o 25%</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION" Language="pl_PL">
-			<Text>Spanish unique Renaissance era unit that replaces the Musketman. +5 [ICON_Strength] Combat Strength when there is a religious unit within 1 hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's majority religion.</Text>
+			<Text>Unikalna jednostka renesansowa hiszpanii zastępująca muszkietmena. +5 [ICON_Strength] siły bojowej kiedy znajduje się jednostka religijna w obrębie jednego pola. Jesli ta jednostka podbije miasto lub sąsiadująca do niej jednostka podbije miasto, miasto zostanie automatycznie nawrócone na religie większosciową konkwistadora.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION" Language="pl_PL">
-			<Text>+5 [ICON_Strength] Combat Strength when there is a religious unit within one hex.[NEWLINE][ICON_Bullet] If this unit captures a city or is adjacent to a city when it's captured, the city will automatically convert to the Conquistador player's majority Religion.</Text>
+			<Text>+5 [ICON_Strength] siły bojowej kiedy sąsiaduje z jednostkę religijną.[NEWLINE][NEWLINE] Jesli ta jednostka podbije miasto lub sąsiadująca do niej jednostka podbije miasto, miasto zostanie automatycznie nawrócone na religie większosciową konkwistadora.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION" Language="pl_PL">
-			<Text>The Theology civic unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] Housing if built 7 tiles or less from current [ICON_CAPITAL] Capital. +1 [ICON_FAITH] Faith if built 8 tiles or more from current [ICON_CAPITAL] Capital. +2 [ICON_Science] Science if built next to a Campus district. +2 [ICON_Science] Science with the Enlightenment civic.[NEWLINE][NEWLINE]Cannot be built next to another Mission.</Text>
+			<Text>Opracowanie idei Teologii odblokowywuje zdolnośc budowniczych do konstrukcji Misji, unikalnego ulepszenia Hiszpanii.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] obszarów mieszkalnych jeśli zbudowana 7 lub mniej pól od obecnej [ICON_CAPITAL] stolicy. +1 [ICON_FAITH] jeśli zbudowany 8 pól lub więcej od obecnej [ICON_CAPITAL] stolicy. +2 [ICON_Science] nauki jeśli zbudowany w sąsiedztwie kampusu. +2 [ICON_Science] nauki po opracowaniu ideii Oświecenia.[NEWLINE][NEWLINE]Nie może być zbudowana w sąsiedztwie innej Misji.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>The Theology civic unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] Housing if built 7 tiles or less from current [ICON_CAPITAL] Capital. +1 [ICON_FAITH] and +1 [ICON_PRODUCTION] Production if built 8 tiles or more from current [ICON_CAPITAL] Capital. +1 [ICON_Science] Science for every adjacent Campus and Holy Site district. +2 [ICON_Science] Science with the Enlightenment civic.[NEWLINE][NEWLINE]Cannot be built next to another Mission.</Text>
+			<Text>Opracowanie idei Teologii odblokowywuje zdolnośc budowniczych do konstrukcji Misji, unikalnego ulepszenia Hiszpanii.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary.[NEWLINE][NEWLINE]+1 [ICON_HOUSING] obszarów mieszkalnych jeśli zbudowana 7 lub mniej pól od obecnej [ICON_CAPITAL] stolicy. +1 [ICON_FAITH] jeśli zbudowany 8 pól lub więcej od obecnej [ICON_CAPITAL] stolicy. +1 [ICON_Science] nauki za każde sąsiadujące pole z kampusem lub dzielnicą świątynną. +2 [ICON_Science] nauki po opracowaniu ideii Oświecenia.[NEWLINE][NEWLINE]Nie może być zbudowana w sąsiedztwie innej Misji.</Text>
 		</Replace>
 
 		<!-- == SUMERIA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME" Language="pl_PL">
-			<Text>The Cradle of Civilization</Text>
+			<Text>Kolebka cywilizacji</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION" Language="pl_PL">
-			<Text>Farms receive +1 [ICON_Food] Food when adjacent to a River, and an additional +1 [ICON_Production] Production if adjacent to a Ziggurat after discovering Early Empire. Does not receive damage from Floods.</Text>
+			<Text>Farmy sąsiadujące z rzeką otrzymują +1 [ICON_Food] żywności, dodatkowe +1 [ICON_Production] produkcji jeśli sąsiaduja z Zigguratem po opracowaniu Wczesnego Imperium. Farmy są niewrażliwe na powodzie.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME" Language="pl_PL">
-			<Text>Adventures of Enkidu</Text>
+			<Text>Dziedzictwo Enkidu</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION" Language="pl_PL">
-			<Text>Starts the game with a War-cart instead of Warrior unit.[NEWLINE][NEWLINE]Military Units receive bonus [ICON_STRENGTH] Combat Strength equal to the level of your most advanced Alliance (maximum 3).[NEWLINE][NEWLINE]When at war with a common foe, they and their allies share pillage rewards and combat experience gains if within 5 tiles. Their Alliances gain Alliance Points for being at war with a common foe.[NEWLINE][NEWLINE]When you capture a [ICON_BARBARIAN] Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy City-state units.</Text>
+			<Text>Rozpoczyna gre z jednostą wozu bojowego zamiast wojownika.[NEWLINE][NEWLINE]Jednostki wojskowe otrzymują bonus do [ICON_STRENGTH] siły bojowej równy najwyższemu poziomiowi sojuszu który zawarł Gilgamesz (maksymalnie 3).[NEWLINE][NEWLINE]Podczas wojny ze wspólnym wrogiem,  Gilgamesz i jego sojusznicy dzielą się łupami z plądrowania i doświadczeniem jednostek wojskowych jeśli sojusznicy znajdują sie w obrębie 5 pól. Sojusznicy zyskują punkty sojuszu za uczestniczenie w wojnie ze wspólnym wrogiem.[NEWLINE][NEWLINE]Dodatkowa nagroda w postaci złota (oprócz standardowych punktów doświadczenia) za rozpędzenie obozu barbarzyńców. Płać połowę domyślnych kosztów poboru jednostek miast-państw.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION" Language="pl_PL">
-			<Text>Starts the game with a War-cart instead of Warrior unit.[NEWLINE][NEWLINE]Military Units receive bonus [ICON_STRENGTH] Combat Strength equal to the level of your most advanced Alliance (maximum 3).[NEWLINE][NEWLINE]When at war with a common foe, they and their allies share pillage rewards and combat experience gains if within 5 tiles. Their Alliances gain Alliance Points for being at war with a common foe.[NEWLINE][NEWLINE]When you capture a [ICON_BARBARIAN] Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy City-state units.</Text>
+			<Text>Rozpoczyna gre z jednostą wozu bojowego zamiast wojownika.[NEWLINE][NEWLINE]Jednostki wojskowe otrzymują bonus do [ICON_STRENGTH] siły bojowej równy najwyższemu poziomiowi sojuszu który zawarł Gilgamesz (maksymalnie 3).[NEWLINE][NEWLINE]Podczas wojny ze wspólnym wrogiem,  Gilgamesz i jego sojusznicy dzielą się łupami z plądrowania i doświadczeniem jednostek wojskowych jeśli sojusznicy znajdują sie w obrębie 5 pól. Sojusznicy zyskują punkty sojuszu za uczestniczenie w wojnie ze wspólnym wrogiem.[NEWLINE][NEWLINE]Dodatkowa nagroda w postaci złota (oprócz standardowych punktów doświadczenia) za rozpędzenie obozu barbarzyńców. Płać połowę domyślnych kosztów poboru jednostek miast-państw.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>Starts the game with a War-cart instead of Warrior unit.[NEWLINE][NEWLINE]Military Units receive bonus [ICON_STRENGTH] Combat Strength equal to the level of your most advanced Alliance (maximum 3).[NEWLINE][NEWLINE]When at war with a common foe, they and their allies share pillage rewards and combat experience gains if within 5 tiles. Their Alliances gain Alliance Points for being at war with a common foe.[NEWLINE][NEWLINE]When you capture a [ICON_BARBARIAN] Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy City-state units.</Text>
+			<Text>Rozpoczyna gre z jednostą wozu bojowego zamiast wojownika.[NEWLINE][NEWLINE]Jednostki wojskowe otrzymują bonus do [ICON_STRENGTH] siły bojowej równy najwyższemu poziomiowi sojuszu który zawarł Gilgamesz (maksymalnie 3).[NEWLINE][NEWLINE]Podczas wojny ze wspólnym wrogiem,  Gilgamesz i jego sojusznicy dzielą się łupami z plądrowania i doświadczeniem jednostek wojskowych jeśli sojusznicy znajdują sie w obrębie 5 pól. Sojusznicy zyskują punkty sojuszu za uczestniczenie w wojnie ze wspólnym wrogiem.[NEWLINE][NEWLINE]Dodatkowa nagroda w postaci złota (oprócz standardowych punktów doświadczenia) za rozpędzenie obozu barbarzyńców. Płać połowę domyślnych kosztów poboru jednostek miast-państw.</Text>
 		</Replace>
 		<Row Tag="LOC_BBG_SUMMER_COMBAT_ALLY_1" Language="pl_PL">
-			<Text>+1 [ICON_STRENGTH] Combat Strength for Alliance level (Adventures of Enkidu)</Text>
+			<Text>+1 [ICON_STRENGTH] siły bojowej za poziom sojuszu (Dziedzictwo Enkidu)</Text>
 		</Row>
 		<Row Tag="LOC_BBG_SUMMER_COMBAT_ALLY_2" Language="pl_PL">
-			<Text>+2 [ICON_STRENGTH] Combat Strength for Alliance level (Adventures of Enkidu)</Text>
+			<Text>+2 [ICON_STRENGTH] siły bojowej za poziom sojuszu (Dziedzictwo Enkidu)</Text>
 		</Row>
 		<Row Tag="LOC_BBG_SUMMER_COMBAT_ALLY_3" Language="pl_PL">
-			<Text>+3 [ICON_STRENGTH] Combat Strength for Alliance level (Adventures of Enkidu)</Text>
+			<Text>+3 [ICON_STRENGTH] siły bojowej za poziom sojuszu (Dziedzictwo Enkidu)</Text>
 		</Row>
 		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_CAPSULE_BODY" Language="pl_PL">
-			<Text>The King surpassing all Kings is a powerful leader with the ability to engage into early aggression or build a tall empire depending on the situation.</Text>
+			<Text>Król przewyższający wszystkich królów jest potężnym przywódcą, który w zależności od sytuacji potrafi zaangażować się w agresję lub zbudować potężne imperium.</Text>
 		</Replace>
 		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_DETAILED_BODY" Language="pl_PL">
-			<Text>As the first civilization in recorded history, Sumeria shines right out of the gate. Their War Carts and Ziggurats are buildable from the very first turn, and growth should be strong with The Cradle of Civilization ability. Gilgamesh will build War Carts and get out hunting [ICON_BARBARIAN] Barbarian Camps early, so he can take advantage of his Adventures of Enkidu ability ("Surpassing All Kings"). He will also scatter the edges of nearby Rivers with Ziggurats to push forward early in [ICON_Science] Science, [ICON_Culture] Culture and even [ICON_Faith] Faith with a good city planning.</Text>
+			<Text>Jako pierwsza cywilizacja w zapisanej historii Sumeria wyróżnia się już przy jej początkach. Ich wozy bojowe i zigguraty można budować od pierwszej tury, a rozwój powinien być silny dzięki zdolności Kolebka cywilizacji. Gilgamesz będzie budował wozy bojowe i wcześnie wyruszał na polowanie na [ICON_BARBARIAN] obozy barbarzyńców, aby móc skorzystać ze swojej zdolności Przygody Enkidu („Przewyższając wszystkich królów”). Obsieję także brzegi pobliskich rzek za pomocą Zigguratów, aby posunąć się do przodu w [ICON_Science] nauce, [ICON_Culture] kulturze, a nawet [ICON_Faith] wierze dzięki dobremu planowaniu miasta.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION" Language="pl_PL">
-			<Text>Sumerian unique Ancient era unit. 4 [ICON_Movement] Movement if this unit starts in open terrain. Can escort civilian and support units at their higher [ICON_Movement] Movement speed. No penalties against anti-cavalry units. +4 [ICON_Strength] Combat Strength when fighting [ICON_BARBARIAN] Barbarians.</Text>
+			<Text>Unikalna starożytna jednostka sumerii. 4 [ICON_Movement] ruchu jeśli rozpoczyna turę na otwartym terenie. Może eskortować jednostkę cywilną wykorzystując swoją większą prędkość ruchu. Brak kary do walki przeciwko jednostką do zwalczania kawalerii. +4 [ICON_Strength] siły bojowej podczas walki z [ICON_BARBARIANS] barbarzyńcami.</Text>
 		</Replace>
 		<Row Tag="LOC_ABILITY_WAR_CART_COMBAT_STRENGTH_VS_BARBS_DESCRIPTION_BBG" Language="pl_PL">
-			<Text>+4 [ICON_Strength] Combat Strength vs. Barbarians.[NEWLINE][ICON_Bullet] No penalties against anti-cavalry units.</Text>
+			<Text>+4 [ICON_Strength] siły bojowej przeciwko barbarzyńcom.[NEWLINE][ICON_Bullet] Brak kary do walki z jednostkami do zwalczania kawalerii.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_WAR_CART_COMBAT_STRENGTH_VS_BARBS_COMBAT_DESCRIPTION_BBG" Language="pl_PL">
-			<Text>+4 vs. Barbarians</Text>
+			<Text>+4 vs. barbarzyńcom</Text>
 		</Row>
 		<Row Tag="LOC_BBG_ABILITY_WAR_CART_ESCORT_CIVILIANS_DESCRIPTION" Language="pl_PL">
-			<Text>Can escort civilian and support units at their higher [ICON_Movement] movement speed.</Text>
+			<Text>Może eskortować i wspierac jednostki wykorzystując swoją wyższą [ICON_Movement] prędkość ruchu.</Text>
 		</Row>
 
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION" Language="pl_PL">
-			<Text>Unlocks the Builder ability to construct a Ziggurat, unique to Sumeria.[NEWLINE][NEWLINE]+1 [ICON_Housing] Housing and +2 [ICON_Science] Science.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture if built next to River. After Early Empire, +1 [ICON_Faith] Faith for each adjacent district or for every 2 adjacent Farms.[NEWLINE][NEWLINE]Cannot be built on Hills or adjacent to another Ziggurat.</Text>
+			<Text>Odblokowuje zdolność budowniczych do zbudowania Zigguratu, unikalnego ulepszenia Sumerii.[NEWLINE][NEWLINE]+1 [ICON_Housing] obszarów mieszkalnych i +2 [ICON_Science] nauki.[NEWLINE][NEWLINE]+1 [ICON_Culture] kultury jeśli sąsiadują z rzeką. Po opracowaniu Wczesnego Imperium, +1 [ICON_Faith] wiary za każde sąsiadujące pole z kampsem oraz za każde sąsiadujące 2 farmy.</Text>
 		</Replace>
 
 		<!-- == SWEDEN == -->
