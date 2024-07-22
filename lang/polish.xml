@@ -319,55 +319,55 @@
 		<!-- == DUTCH == -->
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION" Language="pl_PL">
-			<Text>Your [ICON_TradeRoute] Trade Routes to your own cities provide +2 Loyalty per turn for the starting city. [ICON_TradeRoute] Trade Routes to foreign cities or from foreign cities provide +2 [ICON_Culture] Culture to you and +1 [ICON_Culture] Culture for the sender. +3 [ICON_STRENGTH] Combat Strength for all naval units when defending in Polder improvement. Dutch campuses provide +1 Great Admiral point.</Text>
+			<Text>Wewnętrzne [ICON_TradeRoute] szlaki handlowe zapewniają +2 lojalności na turę dla miasta początkowego. Międzynarodowe [ICON_TradeRoute] szlaki handlowe zapewniają +2 [ICON_Culture] kultury dla Ciebie oraz +1 [ICON_Culture] kultury dla wysyłającego szlak. +3 [ICON_STRENGTH] siły bojowej dla wszystkich jednostek morskich podczas obrony na polu z polderem. Kampusy Holandii zyskują +1 [ICON_GREATADMIRAL] punkt wielkiego admirała.</Text>
 		</Replace>
 		<Row Tag="LOC_BBG_POLDER_DEFENSIVE_CS" Language="pl_PL">
-			<Text>+3 when defending on Polder (Radio Oranje)</Text>
+			<Text>+3 podczas obrony na polu z polderem (Radio Oranje)</Text>
 		</Row>
 		<Row Tag="LOC_BBG_POLDER_DEFENSIVE_CS_DESC" Language="pl_PL">
-			<Text>+3 [ICON_STRENGTH] Combat Strength when defending on Polder improvements.</Text>
+			<Text>+3 [ICON_STRENGTH] siły bojowej podczas obrony na polu z polderem.</Text>
 		</Row>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION" Language="pl_PL">
-			<Text>The Feudalism civic unlocks the Builder ability to construct a Polder, unique to Netherlands.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_Production] Production, and +0.5 [ICON_Housing] Housing. +3 [ICON_STRENGTH] Combat Strength for Dutch naval units on Polder tiles.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food for every adjacent Polder, increasing to +2 [ICON_FOOD] Food for every adjacent Polder with the Replaceable Parts technology. +1 [ICON_PRODUCTION] Production for every adjacent Harbor. +1 [ICON_PRODUCTION] Production for every 2 adjacent Polders, increasing to +1 [ICON_PRODUCTION] Production for every adjacent Polder with the Replaceable Parts technology. +4 [ICON_GOLD] Gold with the Civil Engineering civic.[NEWLINE][NEWLINE]Must be placed on a Coast or Lake tile adjacent to 1 or more passable land tiles.</Text>
+			<Text>Idea Feudalizmu odblokowuje zdolność budowniczych do budowy polderów, unikalnego ulepszenia Holandii.[NEWLINE][NEWLINE]+1 [ICON_FOOD] żywności, +1 [ICON_Production] produkcji oraz +0.5 [ICON_Housing] obszaru mieszkalnego. +3 [ICON_STRENGTH] siły bojowej dla jednostek morskich Holandii podczas obrony na polach z polderem.[NEWLINE][NEWLINE]+1 [ICON_FOOD] żywności za każdy sąsiadujący polder, zwiększane do +2 [ICON_FOOD] żywności za sąsiedztwo polderu po zbadaniu technologii Części zamiennych. +1 [ICON_PRODUCTION] produkcji za sąsiedztwo dzielnicy portowej. +1 [ICON_PRODUCTION] produkcji za każde dwa sąsiadujące poldery, zwiększane do +1 [ICON_PRODUCTION] produkcji za każdy sąsiadujący polder po zbadaniu technologii Części zamiennych. +4 [ICON_GOLD] złota po odkryciu idei Inżynierii cywilnej.[NEWLINE][NEWLINE]Można umieścić wyłącznie na polu wybrzeża lub jeziora sąsiadującego z co najmniej 1 polem terenu umożliwiającego ruch.</Text>
 		</Replace>
 		
 		<!-- == EGYPT == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION" Language="pl_PL">
-			<Text>+20% [ICON_Production] Production towards [ICON_DISTRICT] districts and wonders if placed next to a River. Floodplains do not block placement of districts and wonders.</Text>
+			<Text>+20% do [ICON_Production] produkcji [ICON_DISTRICT] dzielnic oraz cudów w sąsiedztwie rzeki. Tereny zalewowe nie blokują możliwości zbudowania dzielnic i cudów.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>+20% [ICON_Production] Production towards [ICON_DISTRICT] districts and wonders if placed next to a River. Does not receive damage from Floods.</Text>
+			<Text>+20% do [ICON_Production] produkcji [ICON_DISTRICT] dzielnic oraz cudów w sąsiedztwie rzeki. Odporność na uszkodzenia zadawane przez powodzie.</Text>
 		</Replace>
 		<!-- = leader ability (Egypt, Cleopatra Egyptian) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +6 [ICON_Gold] Gold for Egypt. Other civilizations' [ICON_TradeRoute] Trade Routes to Egypt provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Egypt. Trading with Allies earns twice as many bonus Alliance Points.</Text>
+			<Text>Twoje [ICON_TradeRoute] szlaki handlowe do innych cywilizacji zapewniają Egiptowi +6 [ICON_Gold] złota. [ICON_TradeRoute] Szlaki handlowe innych cywilizacji do Egiptu zapewniają im +2 [ICON_Food] żywności, a Egiptowi +2 [ICON_Gold] złota. Wymiana handlowa z sojusznikami zapewnia dwa razy więcej punktów sojuszu.</Text>
 		</Replace>
 		<!-- = leader ability (Ramses II) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_RAMSES_DESCRIPTION" Language="pl_PL">
-			<Text>Gain [ICON_CULTURE] Culture equal to 10% of the construction cost when finishing Buildings and 25% when completing Wonders.</Text>
+			<Text>Po ukończeniu wznoszenia budowli zapewnia [ICON_CULTURE] kulturę równą 10% poniesionych kosztów lub 25%, jeśli wznoszoną budowlą jest cud.</Text>
 		</Replace>
 		<!-- = leader ability (Egypt, Cleopatra Ptolemaic) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_CLEOPATRA_ALT_DESCRIPTION" Language="pl_PL">
-			<Text>Resources on Floodplains receive +1 [ICON_FOOD] Food. Owned Floodplains tiles grant +1 Appeal to adjacent tiles instead of usual -1.</Text>
+			<Text>Zasoby na równinach zalewowych zyskują +1 [ICON_FOOD] żywności. Posiadane pola z równinami zalewowymi zwiększają atrakcyjność sąsiednich pól o +1, zamiast zmniejszać ją o -1.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION" Language="pl_PL">
 			<Text>Egyptian unique Ancient era ranged cavalry unit. 4 [ICON_Movement] Movement when starting in open terrain.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>Egyptian unique Ancient era ranged cavalry unit. 4 [ICON_Movement] Movement when starting in open terrain.</Text>
+			<Text>Starożytna jednostka kawalerii, walcząca dystansowo. Unikalna dla Egiptu. 4 [ICON_Movement] ruchu gdy rozpoczyna na otwartym terenie.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION" Language="pl_PL">
-			<Text>+2 [ICON_Movement] Movement if starting in open terrain.</Text>
+			<Text>+2 [ICON_Movement] ruchu, gdy rozpoczyna na otwartym terenie.</Text>
 		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION" Language="pl_PL">
-			<Text>The Craftsmanship civic unlocks the Builder ability to construct a Sphinx, unique to Egypt.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith, +1 [ICON_Culture] Culture, and +1 Appeal to adjacent tiles.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +1 [ICON_CULTURE] Culture if built next to a wonder. +1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production if built on Desert (not Floodplains) or Desert Hills. +1 [ICON_CULTURE] Culture if built on Floodplains. +1 [ICON_CULTURE] Culture with the Diplomatic Service civic. Provides [ICON_TOURISM] Tourism after researching Flight.[NEWLINE][NEWLINE]Cannot be built next to another Sphinx. Cannot be built on Snow tiles.</Text>
+			<Text>Idea Rzemiosła odblokowuje zdolność budowniczych do budowania sfinksa, unikalnego ulepszenia Egiptu.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary, +1 [ICON_Culture] kultury oraz +1 atrakcyjności dla sąsiadujących pól.[NEWLINE][NEWLINE]+1 [ICON_Faith] wiary oraz +1 [ICON_CULTURE] kultury, jeśli znajduje się obok cudu. +1 [ICON_FOOD] żywności oraz +1 [ICON_PRODUCTION] produkcji jeśli został zbudowany na pustyni (nie pona terenie zalewowym) lub pustynnym wzgórzu. +1 [ICON_CULTURE] kultury jeśli został zbudowany na terenie zalewowym. +1 [ICON_CULTURE] kultury po odkryciu idei Służby dyplomatycznej. Zapewnia [ICON_TOURISM] turystykę po opracowaniu technologii Lotu.[NEWLINE][NEWLINE]Nie można zbudować obok innego sfinksa ani na polach ze śniegiem.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION" Language="pl_PL">
-			<Text>The Craftsmanship civic unlocks the Builder ability to construct a Sphinx, unique to Egypt.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith, +1 [ICON_Culture] Culture, and +2 Appeal to adjacent tiles.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +1 [ICON_CULTURE] Culture if built next to a wonder. +1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production if built on Desert (not Floodplains) or Desert Hills. +1 [ICON_CULTURE] Culture if built on Floodplains. +1 [ICON_CULTURE] Culture with the Diplomatic Service civic. Provides [ICON_TOURISM] Tourism after researching Flight.[NEWLINE][NEWLINE]Cannot be built next to another Sphinx. Cannot be built on Snow tiles.</Text>
+			<Text>Idea Rzemiosła odblokowuje zdolność budowniczych do budowania sfinksa, unikalnego ulepszenia Egiptu.[NEWLINE][NEWLINE]+2 [ICON_Faith] wiary, +1 [ICON_Culture] kultury oraz +2 atrakcyjności dla sąsiadujących pól.[NEWLINE][NEWLINE]+1 [ICON_Faith] wiary oraz +1 [ICON_CULTURE] kultury, jeśli znajduje się obok cudu. +1 [ICON_FOOD] żywności oraz +1 [ICON_PRODUCTION] produkcji jeśli został zbudowany na pustyni (nie pona terenie zalewowym) lub pustynnym wzgórzu. +1 [ICON_CULTURE] kultury jeśli został zbudowany na terenie zalewowym. +1 [ICON_CULTURE] kultury po odkryciu idei Służby dyplomatycznej. Zapewnia [ICON_TOURISM] turystykę po opracowaniu technologii Lotu.[NEWLINE][NEWLINE]Nie można zbudować obok innego sfinksa ani na polach ze śniegiem.</Text>
 		</Replace>
 
 		<!-- == ELEANOR (LEADER) == -->
